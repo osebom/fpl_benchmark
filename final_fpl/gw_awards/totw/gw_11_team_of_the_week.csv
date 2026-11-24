@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+11,16,Saka,1,Arsenal,Midfielder,12,90,1,0,0,0,3,40
+11,32,Martinez,2,Aston Villa,Goalkeeper,14,90,0,0,1,3,2,36
+11,50,Buendía,2,Aston Villa,Midfielder,11,70,1,0,1,0,3,44
+11,136,Thiago,5,Brentford,Forward,13,90,2,0,0,0,3,54
+11,228,Gusto,7,Chelsea,Defender,15,76,1,0,1,0,3,45
+11,258,Mitchell,8,Crystal Palace,Defender,11,90,0,0,1,0,3,38
+11,295,Keane,9,Everton,Defender,15,90,1,0,1,0,3,38
+11,407,Matheus N.,13,Man City,Defender,13,90,0,1,1,0,2,40
+11,418,Doku,13,Man City,Midfielder,11,73,1,0,1,0,3,42
+11,453,Garnacho,7,Chelsea,Midfielder,11,90,0,2,1,0,2,41
+11,613,Souček,19,West Ham,Midfielder,12,28,1,1,0,0,3,35

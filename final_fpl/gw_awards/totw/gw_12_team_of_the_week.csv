@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+12,20,Trossard,1,Arsenal,Midfielder,12,77,1,1,0,0,2,39
+12,47,Rogers,2,Aston Villa,Midfielder,15,90,2,0,0,0,3,49
+12,242,Dewsbury-Hall,9,Everton,Midfielder,13,87,1,0,1,0,3,38
+12,256,Muñoz,8,Crystal Palace,Defender,14,90,1,0,1,0,3,43
+12,266,Eze,1,Arsenal,Midfielder,20,90,3,0,0,0,3,81
+12,287,Pickford,9,Everton,Goalkeeper,10,90,0,0,1,6,2,37
+12,487,Barnes,15,Newcastle,Midfielder,15,84,2,0,0,0,3,45
+12,506,Murillo,16,Nott'm Forest,Defender,17,90,1,0,1,0,3,55
+12,508,N.Williams,16,Nott'm Forest,Defender,13,90,0,1,1,0,2,47
+12,671,Wilson,19,West Ham,Forward,12,51,2,0,0,0,3,54
+12,716,Savona,16,Nott'm Forest,Defender,12,90,1,0,1,0,0,38

@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+33,64,Watkins,2,Aston Villa,Forward,16,79,2,1,0,0,3,70
+33,148,F.Kadıoğlu,6,Brighton,Defender,16,180,1,0,1,0,3,49
+33,314,Leno,10,Fulham,Goalkeeper,10,90,0,0,1,4,3,34
+33,406,Khusanov,13,Man City,Defender,15,180,0,0,1,0,3,50
+33,411,O'Reilly,13,Man City,Defender,13,180,0,1,1,0,2,54
+33,417,Cherki,13,Man City,Midfielder,13,174,1,0,1,0,3,52
+33,430,Haaland,13,Man City,Forward,13,180,2,0,1,0,2,54
+33,515,Gibbs-White,16,Nott'm Forest,Midfielder,20,88,3,0,0,0,3,71
+33,698,Okafor,11,Leeds,Midfielder,16,129,1,1,1,0,3,46
+33,706,Justin,11,Leeds,Defender,19,180,1,0,1,0,3,47
+33,783,Groß,6,Brighton,Midfielder,16,180,0,2,1,0,5,67

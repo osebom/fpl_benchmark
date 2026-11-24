@@ -1,0 +1,54 @@
+rules_version: v1
+season: "2025_26"
+gameweeks: 38
+
+budget:
+  initial_tenths: 1000   # £100.0m stored in FPL tenths
+
+squad:
+  size: 15
+  positions:
+    GK: 2
+    DEF: 5
+    MID: 5
+    FWD: 3
+  max_per_club: 3
+
+lineup:
+  starters: 11
+  gk: 1
+  def: {min: 3, max: 5}
+  mid: {min: 2, max: 5}
+  fwd: {min: 1, max: 3}
+  bench_outfield: 3
+
+transfers:
+  hit_cost: -4
+  max_free_transfers: 5
+  gw1_free_transfers: 0
+  weekly_accrual: 1
+  wildcard_resets_fts: false
+  free_hit_resets_fts: false
+
+captaincy:
+  default_multiplier: 2
+  triple_captain_multiplier: 3
+  appeared_minutes_min: 1
+
+chips:
+  one_per_gameweek: true
+  entitlements:
+    - {chip_type: wildcard, entitlement: 1, available_from_gw: 2, expires_after_gw: 19}
+    - {chip_type: wildcard, entitlement: 2, available_from_gw: 20, expires_after_gw: 38}
+    - {chip_type: freehit, entitlement: 1, available_from_gw: 2, expires_after_gw: 19}
+    - {chip_type: freehit, entitlement: 2, available_from_gw: 20, expires_after_gw: 38}
+    - {chip_type: bboost, entitlement: 1, available_from_gw: 1, expires_after_gw: 19}
+    - {chip_type: bboost, entitlement: 2, available_from_gw: 20, expires_after_gw: 38}
+    - {chip_type: 3xc, entitlement: 1, available_from_gw: 1, expires_after_gw: 19}
+    - {chip_type: 3xc, entitlement: 2, available_from_gw: 20, expires_after_gw: 38}
+
+element_type:
+  1: GK
+  2: DEF
+  3: MID
+  4: FWD

@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+2,7,Calafiori,1,Arsenal,Defender,13,63,0,2,1,0,1,38
+2,8,J.Timber,1,Arsenal,Defender,24,63,2,1,1,0,3,68
+2,83,O.Dango,5,Brentford,Midfielder,13,83,1,0,1,0,3,33
+2,84,Tavernier,4,Bournemouth,Midfielder,11,77,1,0,1,0,3,36
+2,200,Anthony,3,Burnley,Midfielder,13,90,1,1,1,0,2,39
+2,205,Cullen,3,Burnley,Midfielder,14,90,1,1,1,0,3,49
+2,249,João Pedro,7,Chelsea,Forward,15,90,1,2,0,0,3,58
+2,287,Pickford,9,Everton,Goalkeeper,15,90,0,0,1,4,3,40
+2,419,Grealish,9,Everton,Midfielder,11,90,0,2,1,0,2,37
+2,666,Gyökeres,1,Arsenal,Forward,12,90,2,0,1,0,2,44
+2,685,Diakité,4,Bournemouth,Defender,10,90,0,0,1,0,2,34

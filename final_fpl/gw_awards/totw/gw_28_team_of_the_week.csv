@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+28,6,Saliba,1,Arsenal,Defender,10,90,1,0,0,0,2,26
+28,121,Damsgaard,5,Brentford,Midfielder,18,90,2,1,0,0,3,63
+28,311,Beto,9,Everton,Forward,9,73,1,0,0,0,3,44
+28,324,Iwobi,10,Fulham,Midfielder,10,89,1,0,0,0,3,50
+28,329,Wilson,10,Fulham,Midfielder,12,71,1,1,0,0,2,35
+28,402,Aït-Nouri,13,Man City,Defender,11,90,0,1,1,0,3,39
+28,449,B.Fernandes,14,Man Utd,Midfielder,13,90,1,1,0,0,3,47
+28,628,José Sá,20,Wolves,Goalkeeper,8,90,0,0,1,4,1,31
+28,634,Mosquera,20,Wolves,Defender,9,90,0,0,1,0,2,33
+28,646,J.Gomes,20,Wolves,Midfielder,14,90,1,1,1,0,3,53
+28,661,Ekitiké,12,Liverpool,Forward,15,75,1,2,0,0,3,49

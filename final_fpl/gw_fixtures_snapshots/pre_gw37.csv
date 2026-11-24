@@ -1,0 +1,21 @@
+snapshot_gameweek,snapshot_deadline_utc,fixture_id,home_team_id,home_team_name,away_team_id,away_team_name,assigned_gw,fixture_status,team_h_difficulty,team_a_difficulty
+37,2026-05-15T17:30:00Z,361,1,Arsenal,3,Burnley,37,scheduled,1,5
+37,2026-05-15T17:30:00Z,362,2,Aston Villa,12,Liverpool,37,scheduled,3,4
+37,2026-05-15T17:30:00Z,363,4,Bournemouth,13,Man City,37,scheduled,4,3
+37,2026-05-15T17:30:00Z,364,5,Brentford,8,Crystal Palace,37,scheduled,3,3
+37,2026-05-15T17:30:00Z,365,7,Chelsea,18,Spurs,37,scheduled,2,3
+37,2026-05-15T17:30:00Z,366,9,Everton,17,Sunderland,37,scheduled,2,3
+37,2026-05-15T17:30:00Z,367,11,Leeds,6,Brighton,37,scheduled,3,3
+37,2026-05-15T17:30:00Z,368,14,Man Utd,16,Nott'm Forest,37,scheduled,2,4
+37,2026-05-15T17:30:00Z,369,15,Newcastle,19,West Ham,37,scheduled,2,3
+37,2026-05-15T17:30:00Z,370,20,Wolves,10,Fulham,37,scheduled,3,2
+37,2026-05-15T17:30:00Z,371,6,Brighton,14,Man Utd,38,scheduled,3,4
+37,2026-05-15T17:30:00Z,372,3,Burnley,20,Wolves,38,scheduled,1,2
+37,2026-05-15T17:30:00Z,373,8,Crystal Palace,1,Arsenal,38,scheduled,4,3
+37,2026-05-15T17:30:00Z,374,10,Fulham,15,Newcastle,38,scheduled,3,3
+37,2026-05-15T17:30:00Z,375,12,Liverpool,5,Brentford,38,scheduled,3,4
+37,2026-05-15T17:30:00Z,376,13,Man City,2,Aston Villa,38,scheduled,3,5
+37,2026-05-15T17:30:00Z,377,16,Nott'm Forest,4,Bournemouth,38,scheduled,3,3
+37,2026-05-15T17:30:00Z,378,17,Sunderland,7,Chelsea,38,scheduled,3,3
+37,2026-05-15T17:30:00Z,379,18,Spurs,9,Everton,38,scheduled,3,2
+37,2026-05-15T17:30:00Z,380,19,West Ham,11,Leeds,38,scheduled,2,2

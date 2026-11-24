@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+32,90,Scott,4,Bournemouth,Midfielder,12,90,1,0,0,0,3,33
+32,136,Thiago,5,Brentford,Forward,13,90,2,0,0,0,3,49
+32,173,Wieffer,6,Brighton,Midfielder,18,90,2,0,1,0,3,60
+32,260,Guéhi,13,Man City,Defender,15,90,1,0,1,0,3,48
+32,283,Mateta,8,Crystal Palace,Forward,12,25,2,0,0,0,3,53
+32,411,O'Reilly,13,Man City,Defender,14,63,1,0,1,0,2,44
+32,606,Mavropanos,19,West Ham,Defender,21,90,2,0,1,0,3,59
+32,624,Bowen,19,West Ham,Forward,14,90,0,3,1,0,1,46
+32,670,Roefs,17,Sunderland,Goalkeeper,11,90,0,0,1,7,3,42
+32,694,Mukiele,17,Sunderland,Defender,14,81,1,0,1,0,2,35
+32,698,Okafor,11,Leeds,Midfielder,15,73,2,0,0,0,3,46

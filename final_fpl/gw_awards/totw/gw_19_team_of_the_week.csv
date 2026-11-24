@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+19,5,Gabriel,1,Arsenal,Defender,15,76,1,0,1,0,3,40
+19,20,Trossard,1,Arsenal,Midfielder,13,90,1,1,0,0,3,40
+19,86,Brooks,4,Bournemouth,Midfielder,10,77,1,0,0,0,3,37
+19,283,Mateta,8,Crystal Palace,Forward,9,90,1,0,0,0,3,29
+19,287,Pickford,9,Everton,Goalkeeper,10,90,0,0,1,6,2,37
+19,303,Garner,9,Everton,Midfielder,16,90,1,1,1,0,3,60
+19,407,Matheus N.,13,Man City,Defender,11,90,0,0,1,0,3,36
+19,488,Bruno G.,15,Newcastle,Midfielder,10,90,1,0,0,0,3,46
+19,568,Pedro Porro,18,Spurs,Defender,10,90,0,0,1,0,2,31
+19,612,L.Paquetá,19,West Ham,Midfielder,13,82,1,1,0,0,3,32
+19,694,Mukiele,17,Sunderland,Defender,11,90,0,0,1,0,3,36

@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+35,16,Saka,1,Arsenal,Midfielder,11,45,1,1,0,0,2,46
+35,72,Senesi,4,Bournemouth,Defender,14,90,0,1,1,0,3,39
+35,101,Kelleher,5,Brentford,Goalkeeper,8,90,0,0,1,4,1,32
+35,107,Lewis-Potter,5,Brentford,Defender,11,90,0,1,1,0,2,34
+35,121,Damsgaard,5,Brentford,Midfielder,11,90,1,0,1,0,3,36
+35,310,Barry,9,Everton,Forward,11,26,2,0,0,0,2,55
+35,387,Szoboszlai,12,Liverpool,Midfielder,13,90,1,1,0,0,3,47
+35,418,Doku,13,Man City,Midfielder,15,90,2,0,0,0,3,68
+35,527,Awoniyi,16,Nott'm Forest,Forward,16,90,2,1,0,0,3,67
+35,666,Gyökeres,1,Arsenal,Forward,16,63,2,1,1,0,3,66
+35,694,Mukiele,17,Sunderland,Defender,11,90,1,0,0,0,1,24

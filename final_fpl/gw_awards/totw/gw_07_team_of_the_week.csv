@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+7,8,J.Timber,1,Arsenal,Defender,11,90,0,1,1,0,2,43
+7,21,Rice,1,Arsenal,Midfielder,11,78,1,0,1,0,3,45
+7,53,Malen,2,Aston Villa,Midfielder,15,83,2,0,0,0,3,46
+7,82,Semenyo,4,Bournemouth,Midfielder,18,90,2,1,0,0,3,63
+7,151,Van Hecke,6,Brighton,Defender,11,90,1,0,0,0,3,25
+7,403,Gvardiol,13,Man City,Defender,12,90,0,1,1,0,3,41
+7,476,Burn,15,Newcastle,Defender,11,90,0,1,1,0,2,32
+7,488,Bruno G.,15,Newcastle,Midfielder,14,90,1,1,1,0,3,52
+7,582,Kudus,18,Spurs,Midfielder,12,89,1,1,0,0,3,36
+7,681,Šeško,14,Man Utd,Forward,9,90,1,0,1,0,3,33
+7,733,Lammens,14,Man Utd,Goalkeeper,9,90,0,0,1,3,2,29

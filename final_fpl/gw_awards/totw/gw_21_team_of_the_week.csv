@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+21,37,Digne,2,Aston Villa,Defender,9,72,0,0,1,0,3,33
+21,101,Kelleher,5,Brentford,Goalkeeper,13,90,0,0,1,3,1,38
+21,106,Collins,5,Brentford,Defender,13,90,0,1,1,0,2,40
+21,136,Thiago,5,Brentford,Forward,12,81,2,0,1,0,3,70
+21,330,Berge,10,Fulham,Midfielder,10,90,0,1,0,0,3,44
+21,350,Aaronson,11,Leeds,Midfielder,14,90,2,0,0,0,2,50
+21,487,Barnes,15,Newcastle,Midfielder,15,90,2,0,0,0,3,56
+21,488,Bruno G.,15,Newcastle,Midfielder,11,90,1,1,0,0,1,41
+21,584,Tel,18,Spurs,Midfielder,10,90,1,0,0,0,3,42
+21,681,Šeško,14,Man Utd,Forward,13,90,2,0,0,0,3,64
+21,723,Canvot,8,Crystal Palace,Defender,10,90,0,0,1,0,2,32

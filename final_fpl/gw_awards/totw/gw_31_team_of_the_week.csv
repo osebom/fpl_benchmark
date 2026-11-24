@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+31,54,McGinn,2,Aston Villa,Midfielder,10,66,1,0,1,0,2,35
+31,101,Kelleher,5,Brentford,Goalkeeper,9,90,0,0,1,4,2,32
+31,111,Pinnock,5,Brentford,Defender,10,90,0,0,1,0,2,32
+31,178,Welbeck,6,Brighton,Forward,12,82,2,0,0,0,3,65
+31,299,Ndiaye,9,Everton,Midfielder,10,88,1,0,1,0,2,34
+31,311,Beto,9,Everton,Forward,16,81,2,1,1,0,3,65
+31,335,King,10,Fulham,Midfielder,13,81,1,1,0,0,3,39
+31,344,Bijol,11,Leeds,Defender,11,90,0,0,1,0,3,33
+31,449,B.Fernandes,14,Man Utd,Midfielder,13,90,1,1,0,0,3,39
+31,485,Gordon,15,Newcastle,Midfielder,10,88,1,0,0,0,3,28
+31,508,N.Williams,16,Nott'm Forest,Defender,15,90,0,2,1,0,3,46

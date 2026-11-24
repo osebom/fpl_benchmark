@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+3,72,Senesi,4,Bournemouth,Defender,14,90,0,1,1,0,3,42
+3,226,Chalobah,7,Chelsea,Defender,13,90,0,1,1,0,2,43
+3,237,Enzo,7,Chelsea,Midfielder,12,90,1,1,1,0,1,39
+3,242,Dewsbury-Hall,9,Everton,Midfielder,12,90,1,1,0,0,3,49
+3,249,João Pedro,7,Chelsea,Forward,9,90,1,0,1,0,3,46
+3,257,Lacroix,8,Crystal Palace,Defender,11,90,0,1,1,0,2,39
+3,260,Guéhi,8,Crystal Palace,Defender,15,90,1,0,1,0,3,46
+3,366,A.Becker,12,Liverpool,Goalkeeper,8,90,0,0,1,1,2,29
+3,387,Szoboszlai,12,Liverpool,Midfielder,13,90,1,0,1,0,3,45
+3,419,Grealish,9,Everton,Midfielder,10,87,0,2,0,0,2,45
+3,547,E.Le Fée,17,Sunderland,Midfielder,11,90,1,0,0,0,2,30

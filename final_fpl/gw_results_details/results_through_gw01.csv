@@ -1,0 +1,11 @@
+fixture_id,gameweek,kickoff_time,home_team_id,home_team_name,home_score,away_team_id,away_team_name,away_score,home_goalscorer_ids,home_goalscorer_names,home_goal_scorer_id_array,away_goalscorer_ids,away_goalscorer_names,away_goal_scorer_id_array,own_goal_scorer_ids,own_goal_scorer_names,own_goal_scorer_id_array,own_goal_team_ids,own_goal_team_names,fpl_3_bonus_player_ids,fpl_3_bonus_player_names
+1,1,2025-08-15T19:00:00Z,12,Liverpool,4,4,Bournemouth,2,"381, 384, 385, 661","M.Salah, Gakpo, Chiesa, Ekitiké","[381, 384, 385, 661]",82,Semenyo,"[82, 82]",,,[],,,82,Semenyo
+2,1,2025-08-16T11:30:00Z,2,Aston Villa,0,15,Newcastle,0,,,[],,,[],,,[],,,477,Livramento
+3,1,2025-08-16T14:00:00Z,6,Brighton,1,10,Fulham,1,164,O'Riley,[164],338,Muniz,[338],,,[],,,338,Muniz
+4,1,2025-08-17T13:00:00Z,16,Nott'm Forest,3,5,Brentford,1,"525, 669","Wood, Ndoye","[525, 525, 669]",136,Thiago,[136],,,[],,,525,Wood
+5,1,2025-08-16T14:00:00Z,17,Sunderland,3,19,West Ham,0,"531, 560, 561","Ballard, Isidor, Mayenda","[531, 560, 561]",,,[],,,[],,,531,Ballard
+6,1,2025-08-16T14:00:00Z,18,Spurs,3,3,Burnley,0,"597, 580","Richarlison, Johnson","[597, 597, 580]",,,[],,,[],,,597,Richarlison
+7,1,2025-08-16T16:30:00Z,20,Wolves,0,13,Man City,4,,,[],"430, 417, 427","Haaland, Cherki, Reijnders","[430, 430, 417, 427]",,,[],,,430,Haaland
+8,1,2025-08-17T13:00:00Z,7,Chelsea,0,8,Crystal Palace,0,,,[],,,[],,,[],,,233,Acheampong
+9,1,2025-08-17T15:30:00Z,14,Man Utd,0,1,Arsenal,1,,,[],7,Calafiori,[7],,,[],,,1,Raya
+10,1,2025-08-18T19:00:00Z,11,Leeds,1,9,Everton,0,365,Nmecha,[365],,,[],,,[],,,347,Gudmundsson

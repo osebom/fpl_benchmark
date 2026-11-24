@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+25,83,O.Dango,5,Brentford,Midfielder,12,90,1,1,0,0,2,40
+25,235,Palmer,7,Chelsea,Midfielder,20,60,3,0,0,0,3,59
+25,242,Dewsbury-Hall,9,Everton,Midfielder,13,90,1,1,0,0,3,43
+25,257,Lacroix,8,Crystal Palace,Defender,11,90,0,0,1,0,3,33
+25,356,Gruev,11,Leeds,Midfielder,11,90,0,2,0,0,3,45
+25,430,Haaland,13,Man City,Forward,11,90,1,1,0,0,3,35
+25,440,Dalot,14,Man Utd,Defender,12,90,0,1,1,0,3,48
+25,488,Bruno G.,15,Newcastle,Midfielder,11,90,1,1,0,0,1,37
+25,603,Diouf,19,West Ham,Defender,9,78,0,1,1,0,1,35
+25,666,Gyökeres,1,Arsenal,Forward,12,30,2,0,0,0,3,54
+25,679,Hermansen,19,West Ham,Goalkeeper,10,90,0,0,1,5,3,36

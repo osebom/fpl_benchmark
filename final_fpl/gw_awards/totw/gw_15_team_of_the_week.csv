@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+15,220,Sánchez,7,Chelsea,Goalkeeper,10,90,0,0,1,5,3,35
+15,226,Chalobah,7,Chelsea,Defender,11,90,0,0,1,0,3,35
+15,242,Dewsbury-Hall,9,Everton,Midfielder,16,90,1,1,1,0,3,44
+15,403,Gvardiol,13,Man City,Defender,12,69,1,0,1,0,1,37
+15,408,Rúben,13,Man City,Defender,14,90,1,0,1,0,2,44
+15,417,Cherki,13,Man City,Midfielder,12,81,0,2,1,0,3,48
+15,449,B.Fernandes,14,Man Utd,Midfielder,18,90,2,1,0,0,3,74
+15,624,Bowen,19,West Ham,Forward,9,90,1,0,0,0,3,36
+15,660,Stach,11,Leeds,Midfielder,12,90,1,1,0,0,2,46
+15,661,Ekitiké,12,Liverpool,Forward,13,83,2,0,0,0,3,56
+15,717,Xavi,18,Spurs,Midfielder,14,90,1,1,1,0,3,47

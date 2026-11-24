@@ -1,0 +1,351 @@
+snapshot_gameweek,snapshot_deadline_utc,fixture_id,home_team_id,home_team_name,away_team_id,away_team_name,assigned_gw,fixture_status,team_h_difficulty,team_a_difficulty
+4,2025-09-13T10:00:00Z,31,1,Arsenal,16,Nott'm Forest,4,scheduled,2,5
+4,2025-09-13T10:00:00Z,32,4,Bournemouth,6,Brighton,4,scheduled,3,3
+4,2025-09-13T10:00:00Z,33,5,Brentford,7,Chelsea,4,scheduled,3,3
+4,2025-09-13T10:00:00Z,34,3,Burnley,12,Liverpool,4,scheduled,3,2
+4,2025-09-13T10:00:00Z,35,8,Crystal Palace,17,Sunderland,4,scheduled,2,3
+4,2025-09-13T10:00:00Z,36,9,Everton,2,Aston Villa,4,scheduled,3,3
+4,2025-09-13T10:00:00Z,37,10,Fulham,11,Leeds,4,scheduled,2,3
+4,2025-09-13T10:00:00Z,38,13,Man City,14,Man Utd,4,scheduled,3,5
+4,2025-09-13T10:00:00Z,39,15,Newcastle,20,Wolves,4,scheduled,1,3
+4,2025-09-13T10:00:00Z,40,19,West Ham,18,Spurs,4,scheduled,2,2
+4,2025-09-13T10:00:00Z,41,1,Arsenal,13,Man City,5,scheduled,4,5
+4,2025-09-13T10:00:00Z,42,4,Bournemouth,15,Newcastle,5,scheduled,3,3
+4,2025-09-13T10:00:00Z,43,6,Brighton,18,Spurs,5,scheduled,2,4
+4,2025-09-13T10:00:00Z,44,3,Burnley,16,Nott'm Forest,5,scheduled,2,2
+4,2025-09-13T10:00:00Z,45,10,Fulham,5,Brentford,5,scheduled,3,3
+4,2025-09-13T10:00:00Z,46,12,Liverpool,9,Everton,5,scheduled,3,4
+4,2025-09-13T10:00:00Z,47,14,Man Utd,7,Chelsea,5,scheduled,3,4
+4,2025-09-13T10:00:00Z,48,17,Sunderland,2,Aston Villa,5,scheduled,3,3
+4,2025-09-13T10:00:00Z,49,19,West Ham,8,Crystal Palace,5,scheduled,3,2
+4,2025-09-13T10:00:00Z,50,20,Wolves,11,Leeds,5,scheduled,2,2
+4,2025-09-13T10:00:00Z,51,2,Aston Villa,10,Fulham,6,scheduled,3,4
+4,2025-09-13T10:00:00Z,52,5,Brentford,14,Man Utd,6,scheduled,3,3
+4,2025-09-13T10:00:00Z,53,7,Chelsea,6,Brighton,6,scheduled,3,3
+4,2025-09-13T10:00:00Z,54,8,Crystal Palace,12,Liverpool,6,scheduled,3,3
+4,2025-09-13T10:00:00Z,55,9,Everton,19,West Ham,6,scheduled,2,3
+4,2025-09-13T10:00:00Z,56,11,Leeds,4,Bournemouth,6,scheduled,3,3
+4,2025-09-13T10:00:00Z,57,13,Man City,3,Burnley,6,scheduled,1,5
+4,2025-09-13T10:00:00Z,58,15,Newcastle,1,Arsenal,6,scheduled,4,3
+4,2025-09-13T10:00:00Z,59,16,Nott'm Forest,17,Sunderland,6,scheduled,2,3
+4,2025-09-13T10:00:00Z,60,18,Spurs,20,Wolves,6,scheduled,1,2
+4,2025-09-13T10:00:00Z,61,1,Arsenal,19,West Ham,7,scheduled,2,5
+4,2025-09-13T10:00:00Z,62,2,Aston Villa,3,Burnley,7,scheduled,1,4
+4,2025-09-13T10:00:00Z,63,4,Bournemouth,10,Fulham,7,scheduled,3,3
+4,2025-09-13T10:00:00Z,64,5,Brentford,13,Man City,7,scheduled,4,3
+4,2025-09-13T10:00:00Z,65,7,Chelsea,12,Liverpool,7,scheduled,3,3
+4,2025-09-13T10:00:00Z,66,9,Everton,8,Crystal Palace,7,scheduled,3,3
+4,2025-09-13T10:00:00Z,67,11,Leeds,18,Spurs,7,scheduled,2,3
+4,2025-09-13T10:00:00Z,68,14,Man Utd,17,Sunderland,7,scheduled,2,4
+4,2025-09-13T10:00:00Z,69,15,Newcastle,16,Nott'm Forest,7,scheduled,2,3
+4,2025-09-13T10:00:00Z,70,20,Wolves,6,Brighton,7,scheduled,3,2
+4,2025-09-13T10:00:00Z,71,6,Brighton,15,Newcastle,8,scheduled,3,4
+4,2025-09-13T10:00:00Z,72,3,Burnley,11,Leeds,8,scheduled,2,2
+4,2025-09-13T10:00:00Z,73,8,Crystal Palace,4,Bournemouth,8,scheduled,3,3
+4,2025-09-13T10:00:00Z,74,10,Fulham,1,Arsenal,8,scheduled,4,3
+4,2025-09-13T10:00:00Z,75,12,Liverpool,14,Man Utd,8,scheduled,3,4
+4,2025-09-13T10:00:00Z,76,13,Man City,9,Everton,8,scheduled,3,5
+4,2025-09-13T10:00:00Z,77,16,Nott'm Forest,7,Chelsea,8,scheduled,3,3
+4,2025-09-13T10:00:00Z,78,17,Sunderland,20,Wolves,8,scheduled,1,3
+4,2025-09-13T10:00:00Z,79,18,Spurs,2,Aston Villa,8,scheduled,3,2
+4,2025-09-13T10:00:00Z,80,19,West Ham,5,Brentford,8,scheduled,3,2
+4,2025-09-13T10:00:00Z,81,1,Arsenal,8,Crystal Palace,9,scheduled,3,5
+4,2025-09-13T10:00:00Z,82,2,Aston Villa,13,Man City,9,scheduled,4,4
+4,2025-09-13T10:00:00Z,83,4,Bournemouth,16,Nott'm Forest,9,scheduled,2,3
+4,2025-09-13T10:00:00Z,84,5,Brentford,12,Liverpool,9,scheduled,3,3
+4,2025-09-13T10:00:00Z,85,7,Chelsea,17,Sunderland,9,scheduled,2,3
+4,2025-09-13T10:00:00Z,86,9,Everton,18,Spurs,9,scheduled,2,3
+4,2025-09-13T10:00:00Z,87,11,Leeds,19,West Ham,9,scheduled,2,3
+4,2025-09-13T10:00:00Z,88,14,Man Utd,6,Brighton,9,scheduled,3,4
+4,2025-09-13T10:00:00Z,89,15,Newcastle,10,Fulham,9,scheduled,3,3
+4,2025-09-13T10:00:00Z,90,20,Wolves,3,Burnley,9,scheduled,1,2
+4,2025-09-13T10:00:00Z,91,6,Brighton,11,Leeds,10,scheduled,2,4
+4,2025-09-13T10:00:00Z,92,3,Burnley,1,Arsenal,10,scheduled,4,2
+4,2025-09-13T10:00:00Z,93,8,Crystal Palace,5,Brentford,10,scheduled,3,3
+4,2025-09-13T10:00:00Z,94,10,Fulham,20,Wolves,10,scheduled,1,3
+4,2025-09-13T10:00:00Z,95,12,Liverpool,2,Aston Villa,10,scheduled,3,4
+4,2025-09-13T10:00:00Z,96,13,Man City,4,Bournemouth,10,scheduled,3,5
+4,2025-09-13T10:00:00Z,97,16,Nott'm Forest,14,Man Utd,10,scheduled,3,3
+4,2025-09-13T10:00:00Z,98,17,Sunderland,9,Everton,10,scheduled,3,3
+4,2025-09-13T10:00:00Z,99,18,Spurs,7,Chelsea,10,scheduled,3,2
+4,2025-09-13T10:00:00Z,100,19,West Ham,15,Newcastle,10,scheduled,3,2
+4,2025-09-13T10:00:00Z,101,2,Aston Villa,4,Bournemouth,11,scheduled,3,4
+4,2025-09-13T10:00:00Z,102,5,Brentford,15,Newcastle,11,scheduled,3,3
+4,2025-09-13T10:00:00Z,103,7,Chelsea,20,Wolves,11,scheduled,1,3
+4,2025-09-13T10:00:00Z,104,8,Crystal Palace,6,Brighton,11,scheduled,3,3
+4,2025-09-13T10:00:00Z,105,9,Everton,10,Fulham,11,scheduled,3,3
+4,2025-09-13T10:00:00Z,106,13,Man City,12,Liverpool,11,scheduled,3,5
+4,2025-09-13T10:00:00Z,107,16,Nott'm Forest,11,Leeds,11,scheduled,2,3
+4,2025-09-13T10:00:00Z,108,17,Sunderland,1,Arsenal,11,scheduled,4,3
+4,2025-09-13T10:00:00Z,109,18,Spurs,14,Man Utd,11,scheduled,3,2
+4,2025-09-13T10:00:00Z,110,19,West Ham,3,Burnley,11,scheduled,1,2
+4,2025-09-13T10:00:00Z,111,1,Arsenal,18,Spurs,12,scheduled,2,5
+4,2025-09-13T10:00:00Z,112,4,Bournemouth,19,West Ham,12,scheduled,2,3
+4,2025-09-13T10:00:00Z,113,6,Brighton,5,Brentford,12,scheduled,3,4
+4,2025-09-13T10:00:00Z,114,3,Burnley,7,Chelsea,12,scheduled,3,2
+4,2025-09-13T10:00:00Z,115,10,Fulham,17,Sunderland,12,scheduled,2,3
+4,2025-09-13T10:00:00Z,116,11,Leeds,2,Aston Villa,12,scheduled,3,3
+4,2025-09-13T10:00:00Z,117,12,Liverpool,16,Nott'm Forest,12,scheduled,2,4
+4,2025-09-13T10:00:00Z,118,14,Man Utd,9,Everton,12,scheduled,3,4
+4,2025-09-13T10:00:00Z,119,15,Newcastle,13,Man City,12,scheduled,4,3
+4,2025-09-13T10:00:00Z,120,20,Wolves,8,Crystal Palace,12,scheduled,3,2
+4,2025-09-13T10:00:00Z,121,2,Aston Villa,20,Wolves,13,scheduled,1,4
+4,2025-09-13T10:00:00Z,122,5,Brentford,3,Burnley,13,scheduled,1,3
+4,2025-09-13T10:00:00Z,123,7,Chelsea,1,Arsenal,13,scheduled,4,3
+4,2025-09-13T10:00:00Z,124,8,Crystal Palace,14,Man Utd,13,scheduled,3,3
+4,2025-09-13T10:00:00Z,125,9,Everton,15,Newcastle,13,scheduled,3,3
+4,2025-09-13T10:00:00Z,126,13,Man City,11,Leeds,13,scheduled,2,5
+4,2025-09-13T10:00:00Z,127,16,Nott'm Forest,6,Brighton,13,scheduled,3,3
+4,2025-09-13T10:00:00Z,128,17,Sunderland,4,Bournemouth,13,scheduled,3,3
+4,2025-09-13T10:00:00Z,129,18,Spurs,10,Fulham,13,scheduled,3,2
+4,2025-09-13T10:00:00Z,130,19,West Ham,12,Liverpool,13,scheduled,3,2
+4,2025-09-13T10:00:00Z,131,1,Arsenal,5,Brentford,14,scheduled,3,5
+4,2025-09-13T10:00:00Z,132,4,Bournemouth,9,Everton,14,scheduled,3,3
+4,2025-09-13T10:00:00Z,133,6,Brighton,2,Aston Villa,14,scheduled,3,4
+4,2025-09-13T10:00:00Z,134,3,Burnley,8,Crystal Palace,14,scheduled,3,2
+4,2025-09-13T10:00:00Z,135,10,Fulham,13,Man City,14,scheduled,4,3
+4,2025-09-13T10:00:00Z,136,11,Leeds,7,Chelsea,14,scheduled,3,3
+4,2025-09-13T10:00:00Z,137,12,Liverpool,17,Sunderland,14,scheduled,2,4
+4,2025-09-13T10:00:00Z,138,14,Man Utd,19,West Ham,14,scheduled,2,4
+4,2025-09-13T10:00:00Z,139,15,Newcastle,18,Spurs,14,scheduled,2,3
+4,2025-09-13T10:00:00Z,140,20,Wolves,16,Nott'm Forest,14,scheduled,2,2
+4,2025-09-13T10:00:00Z,141,2,Aston Villa,1,Arsenal,15,scheduled,4,4
+4,2025-09-13T10:00:00Z,142,4,Bournemouth,7,Chelsea,15,scheduled,3,3
+4,2025-09-13T10:00:00Z,143,6,Brighton,19,West Ham,15,scheduled,2,4
+4,2025-09-13T10:00:00Z,144,9,Everton,16,Nott'm Forest,15,scheduled,2,3
+4,2025-09-13T10:00:00Z,145,10,Fulham,8,Crystal Palace,15,scheduled,3,3
+4,2025-09-13T10:00:00Z,146,11,Leeds,12,Liverpool,15,scheduled,3,3
+4,2025-09-13T10:00:00Z,147,13,Man City,17,Sunderland,15,scheduled,2,5
+4,2025-09-13T10:00:00Z,148,15,Newcastle,3,Burnley,15,scheduled,1,3
+4,2025-09-13T10:00:00Z,149,18,Spurs,5,Brentford,15,scheduled,3,2
+4,2025-09-13T10:00:00Z,150,20,Wolves,14,Man Utd,15,scheduled,3,2
+4,2025-09-13T10:00:00Z,151,1,Arsenal,20,Wolves,16,scheduled,1,5
+4,2025-09-13T10:00:00Z,152,5,Brentford,11,Leeds,16,scheduled,2,3
+4,2025-09-13T10:00:00Z,153,3,Burnley,10,Fulham,16,scheduled,3,2
+4,2025-09-13T10:00:00Z,154,7,Chelsea,9,Everton,16,scheduled,3,3
+4,2025-09-13T10:00:00Z,155,8,Crystal Palace,13,Man City,16,scheduled,4,3
+4,2025-09-13T10:00:00Z,156,12,Liverpool,6,Brighton,16,scheduled,3,4
+4,2025-09-13T10:00:00Z,157,14,Man Utd,4,Bournemouth,16,scheduled,3,4
+4,2025-09-13T10:00:00Z,158,16,Nott'm Forest,18,Spurs,16,scheduled,2,3
+4,2025-09-13T10:00:00Z,159,17,Sunderland,15,Newcastle,16,scheduled,3,3
+4,2025-09-13T10:00:00Z,160,19,West Ham,2,Aston Villa,16,scheduled,3,2
+4,2025-09-13T10:00:00Z,161,2,Aston Villa,14,Man Utd,17,scheduled,3,4
+4,2025-09-13T10:00:00Z,162,4,Bournemouth,3,Burnley,17,scheduled,1,3
+4,2025-09-13T10:00:00Z,163,6,Brighton,17,Sunderland,17,scheduled,2,4
+4,2025-09-13T10:00:00Z,164,9,Everton,1,Arsenal,17,scheduled,4,3
+4,2025-09-13T10:00:00Z,165,10,Fulham,16,Nott'm Forest,17,scheduled,2,3
+4,2025-09-13T10:00:00Z,166,11,Leeds,8,Crystal Palace,17,scheduled,3,3
+4,2025-09-13T10:00:00Z,167,13,Man City,19,West Ham,17,scheduled,2,5
+4,2025-09-13T10:00:00Z,168,15,Newcastle,7,Chelsea,17,scheduled,3,3
+4,2025-09-13T10:00:00Z,169,18,Spurs,12,Liverpool,17,scheduled,3,2
+4,2025-09-13T10:00:00Z,170,20,Wolves,5,Brentford,17,scheduled,3,2
+4,2025-09-13T10:00:00Z,171,1,Arsenal,6,Brighton,18,scheduled,3,5
+4,2025-09-13T10:00:00Z,172,5,Brentford,4,Bournemouth,18,scheduled,3,3
+4,2025-09-13T10:00:00Z,173,3,Burnley,9,Everton,18,scheduled,3,2
+4,2025-09-13T10:00:00Z,174,7,Chelsea,2,Aston Villa,18,scheduled,3,3
+4,2025-09-13T10:00:00Z,175,8,Crystal Palace,18,Spurs,18,scheduled,2,3
+4,2025-09-13T10:00:00Z,176,12,Liverpool,20,Wolves,18,scheduled,1,4
+4,2025-09-13T10:00:00Z,177,14,Man Utd,15,Newcastle,18,scheduled,3,4
+4,2025-09-13T10:00:00Z,178,16,Nott'm Forest,13,Man City,18,scheduled,4,3
+4,2025-09-13T10:00:00Z,179,17,Sunderland,11,Leeds,18,scheduled,2,3
+4,2025-09-13T10:00:00Z,180,19,West Ham,10,Fulham,18,scheduled,3,2
+4,2025-09-13T10:00:00Z,181,1,Arsenal,2,Aston Villa,19,scheduled,3,5
+4,2025-09-13T10:00:00Z,182,5,Brentford,18,Spurs,19,scheduled,2,3
+4,2025-09-13T10:00:00Z,183,3,Burnley,15,Newcastle,19,scheduled,3,2
+4,2025-09-13T10:00:00Z,184,7,Chelsea,4,Bournemouth,19,scheduled,3,3
+4,2025-09-13T10:00:00Z,185,8,Crystal Palace,10,Fulham,19,scheduled,3,3
+4,2025-09-13T10:00:00Z,186,12,Liverpool,11,Leeds,19,scheduled,2,4
+4,2025-09-13T10:00:00Z,187,14,Man Utd,20,Wolves,19,scheduled,1,4
+4,2025-09-13T10:00:00Z,188,16,Nott'm Forest,9,Everton,19,scheduled,3,3
+4,2025-09-13T10:00:00Z,189,17,Sunderland,13,Man City,19,scheduled,4,3
+4,2025-09-13T10:00:00Z,190,19,West Ham,6,Brighton,19,scheduled,3,2
+4,2025-09-13T10:00:00Z,191,2,Aston Villa,16,Nott'm Forest,20,scheduled,2,4
+4,2025-09-13T10:00:00Z,192,4,Bournemouth,1,Arsenal,20,scheduled,4,3
+4,2025-09-13T10:00:00Z,193,6,Brighton,3,Burnley,20,scheduled,1,4
+4,2025-09-13T10:00:00Z,194,9,Everton,5,Brentford,20,scheduled,3,3
+4,2025-09-13T10:00:00Z,195,10,Fulham,12,Liverpool,20,scheduled,3,3
+4,2025-09-13T10:00:00Z,196,11,Leeds,14,Man Utd,20,scheduled,3,3
+4,2025-09-13T10:00:00Z,197,13,Man City,7,Chelsea,20,scheduled,3,5
+4,2025-09-13T10:00:00Z,198,15,Newcastle,8,Crystal Palace,20,scheduled,3,3
+4,2025-09-13T10:00:00Z,199,18,Spurs,17,Sunderland,20,scheduled,2,2
+4,2025-09-13T10:00:00Z,200,20,Wolves,19,West Ham,20,scheduled,2,2
+4,2025-09-13T10:00:00Z,201,1,Arsenal,12,Liverpool,21,scheduled,3,5
+4,2025-09-13T10:00:00Z,202,4,Bournemouth,18,Spurs,21,scheduled,2,3
+4,2025-09-13T10:00:00Z,203,5,Brentford,17,Sunderland,21,scheduled,2,3
+4,2025-09-13T10:00:00Z,204,3,Burnley,14,Man Utd,21,scheduled,3,2
+4,2025-09-13T10:00:00Z,205,8,Crystal Palace,2,Aston Villa,21,scheduled,3,3
+4,2025-09-13T10:00:00Z,206,9,Everton,20,Wolves,21,scheduled,1,3
+4,2025-09-13T10:00:00Z,207,10,Fulham,7,Chelsea,21,scheduled,3,3
+4,2025-09-13T10:00:00Z,208,13,Man City,6,Brighton,21,scheduled,3,5
+4,2025-09-13T10:00:00Z,209,15,Newcastle,11,Leeds,21,scheduled,2,3
+4,2025-09-13T10:00:00Z,210,19,West Ham,16,Nott'm Forest,21,scheduled,2,2
+4,2025-09-13T10:00:00Z,211,2,Aston Villa,9,Everton,22,scheduled,3,4
+4,2025-09-13T10:00:00Z,212,6,Brighton,4,Bournemouth,22,scheduled,3,4
+4,2025-09-13T10:00:00Z,213,7,Chelsea,5,Brentford,22,scheduled,3,3
+4,2025-09-13T10:00:00Z,214,11,Leeds,10,Fulham,22,scheduled,3,3
+4,2025-09-13T10:00:00Z,215,12,Liverpool,3,Burnley,22,scheduled,1,4
+4,2025-09-13T10:00:00Z,216,14,Man Utd,13,Man City,22,scheduled,4,4
+4,2025-09-13T10:00:00Z,217,16,Nott'm Forest,1,Arsenal,22,scheduled,4,3
+4,2025-09-13T10:00:00Z,218,17,Sunderland,8,Crystal Palace,22,scheduled,3,3
+4,2025-09-13T10:00:00Z,219,18,Spurs,19,West Ham,22,scheduled,2,2
+4,2025-09-13T10:00:00Z,220,20,Wolves,15,Newcastle,22,scheduled,3,2
+4,2025-09-13T10:00:00Z,221,1,Arsenal,14,Man Utd,23,scheduled,3,5
+4,2025-09-13T10:00:00Z,222,4,Bournemouth,12,Liverpool,23,scheduled,3,3
+4,2025-09-13T10:00:00Z,223,5,Brentford,16,Nott'm Forest,23,scheduled,2,3
+4,2025-09-13T10:00:00Z,224,3,Burnley,18,Spurs,23,scheduled,2,2
+4,2025-09-13T10:00:00Z,225,8,Crystal Palace,7,Chelsea,23,scheduled,3,3
+4,2025-09-13T10:00:00Z,226,9,Everton,11,Leeds,23,scheduled,2,3
+4,2025-09-13T10:00:00Z,227,10,Fulham,6,Brighton,23,scheduled,3,3
+4,2025-09-13T10:00:00Z,228,13,Man City,20,Wolves,23,scheduled,1,5
+4,2025-09-13T10:00:00Z,229,15,Newcastle,2,Aston Villa,23,scheduled,3,3
+4,2025-09-13T10:00:00Z,230,19,West Ham,17,Sunderland,23,scheduled,2,2
+4,2025-09-13T10:00:00Z,231,2,Aston Villa,5,Brentford,24,scheduled,3,4
+4,2025-09-13T10:00:00Z,232,6,Brighton,9,Everton,24,scheduled,3,4
+4,2025-09-13T10:00:00Z,233,7,Chelsea,19,West Ham,24,scheduled,2,3
+4,2025-09-13T10:00:00Z,234,11,Leeds,1,Arsenal,24,scheduled,4,3
+4,2025-09-13T10:00:00Z,235,12,Liverpool,15,Newcastle,24,scheduled,3,4
+4,2025-09-13T10:00:00Z,236,14,Man Utd,10,Fulham,24,scheduled,3,4
+4,2025-09-13T10:00:00Z,237,16,Nott'm Forest,8,Crystal Palace,24,scheduled,3,3
+4,2025-09-13T10:00:00Z,238,17,Sunderland,3,Burnley,24,scheduled,1,3
+4,2025-09-13T10:00:00Z,239,18,Spurs,13,Man City,24,scheduled,4,2
+4,2025-09-13T10:00:00Z,240,20,Wolves,4,Bournemouth,24,scheduled,3,2
+4,2025-09-13T10:00:00Z,241,1,Arsenal,17,Sunderland,25,scheduled,2,5
+4,2025-09-13T10:00:00Z,242,4,Bournemouth,2,Aston Villa,25,scheduled,3,3
+4,2025-09-13T10:00:00Z,243,6,Brighton,8,Crystal Palace,25,scheduled,3,4
+4,2025-09-13T10:00:00Z,244,3,Burnley,19,West Ham,25,scheduled,2,2
+4,2025-09-13T10:00:00Z,245,10,Fulham,9,Everton,25,scheduled,3,3
+4,2025-09-13T10:00:00Z,246,11,Leeds,16,Nott'm Forest,25,scheduled,2,3
+4,2025-09-13T10:00:00Z,247,12,Liverpool,13,Man City,25,scheduled,4,4
+4,2025-09-13T10:00:00Z,248,14,Man Utd,18,Spurs,25,scheduled,2,4
+4,2025-09-13T10:00:00Z,249,15,Newcastle,5,Brentford,25,scheduled,3,3
+4,2025-09-13T10:00:00Z,250,20,Wolves,7,Chelsea,25,scheduled,3,2
+4,2025-09-13T10:00:00Z,251,2,Aston Villa,6,Brighton,26,scheduled,3,4
+4,2025-09-13T10:00:00Z,252,5,Brentford,1,Arsenal,26,scheduled,4,3
+4,2025-09-13T10:00:00Z,253,7,Chelsea,11,Leeds,26,scheduled,2,3
+4,2025-09-13T10:00:00Z,254,8,Crystal Palace,3,Burnley,26,scheduled,1,3
+4,2025-09-13T10:00:00Z,255,9,Everton,4,Bournemouth,26,scheduled,3,3
+4,2025-09-13T10:00:00Z,256,13,Man City,10,Fulham,26,scheduled,3,5
+4,2025-09-13T10:00:00Z,257,16,Nott'm Forest,20,Wolves,26,scheduled,1,3
+4,2025-09-13T10:00:00Z,258,17,Sunderland,12,Liverpool,26,scheduled,3,3
+4,2025-09-13T10:00:00Z,259,18,Spurs,15,Newcastle,26,scheduled,3,2
+4,2025-09-13T10:00:00Z,260,19,West Ham,14,Man Utd,26,scheduled,3,2
+4,2025-09-13T10:00:00Z,261,2,Aston Villa,11,Leeds,27,scheduled,2,4
+4,2025-09-13T10:00:00Z,262,5,Brentford,6,Brighton,27,scheduled,3,3
+4,2025-09-13T10:00:00Z,263,7,Chelsea,3,Burnley,27,scheduled,1,3
+4,2025-09-13T10:00:00Z,264,8,Crystal Palace,20,Wolves,27,scheduled,1,3
+4,2025-09-13T10:00:00Z,265,9,Everton,14,Man Utd,27,scheduled,3,3
+4,2025-09-13T10:00:00Z,266,13,Man City,15,Newcastle,27,scheduled,3,5
+4,2025-09-13T10:00:00Z,267,16,Nott'm Forest,12,Liverpool,27,scheduled,3,3
+4,2025-09-13T10:00:00Z,268,17,Sunderland,10,Fulham,27,scheduled,3,3
+4,2025-09-13T10:00:00Z,269,18,Spurs,1,Arsenal,27,scheduled,4,2
+4,2025-09-13T10:00:00Z,270,19,West Ham,4,Bournemouth,27,scheduled,3,2
+4,2025-09-13T10:00:00Z,271,1,Arsenal,7,Chelsea,28,scheduled,3,5
+4,2025-09-13T10:00:00Z,272,4,Bournemouth,17,Sunderland,28,scheduled,2,3
+4,2025-09-13T10:00:00Z,273,6,Brighton,16,Nott'm Forest,28,scheduled,2,4
+4,2025-09-13T10:00:00Z,274,3,Burnley,5,Brentford,28,scheduled,3,2
+4,2025-09-13T10:00:00Z,275,10,Fulham,18,Spurs,28,scheduled,2,3
+4,2025-09-13T10:00:00Z,276,11,Leeds,13,Man City,28,scheduled,4,3
+4,2025-09-13T10:00:00Z,277,12,Liverpool,19,West Ham,28,scheduled,2,4
+4,2025-09-13T10:00:00Z,278,14,Man Utd,8,Crystal Palace,28,scheduled,3,4
+4,2025-09-13T10:00:00Z,279,15,Newcastle,9,Everton,28,scheduled,3,3
+4,2025-09-13T10:00:00Z,280,20,Wolves,2,Aston Villa,28,scheduled,3,2
+4,2025-09-13T10:00:00Z,281,2,Aston Villa,7,Chelsea,29,scheduled,3,4
+4,2025-09-13T10:00:00Z,282,4,Bournemouth,5,Brentford,29,scheduled,3,3
+4,2025-09-13T10:00:00Z,283,6,Brighton,1,Arsenal,29,scheduled,4,4
+4,2025-09-13T10:00:00Z,284,9,Everton,3,Burnley,29,scheduled,1,3
+4,2025-09-13T10:00:00Z,285,10,Fulham,19,West Ham,29,scheduled,2,3
+4,2025-09-13T10:00:00Z,286,11,Leeds,17,Sunderland,29,scheduled,2,3
+4,2025-09-13T10:00:00Z,287,13,Man City,16,Nott'm Forest,29,scheduled,2,5
+4,2025-09-13T10:00:00Z,288,15,Newcastle,14,Man Utd,29,scheduled,3,3
+4,2025-09-13T10:00:00Z,289,18,Spurs,8,Crystal Palace,29,scheduled,3,2
+4,2025-09-13T10:00:00Z,290,20,Wolves,12,Liverpool,29,scheduled,3,2
+4,2025-09-13T10:00:00Z,291,1,Arsenal,9,Everton,30,scheduled,3,5
+4,2025-09-13T10:00:00Z,292,5,Brentford,20,Wolves,30,scheduled,1,3
+4,2025-09-13T10:00:00Z,293,3,Burnley,4,Bournemouth,30,scheduled,3,2
+4,2025-09-13T10:00:00Z,294,7,Chelsea,15,Newcastle,30,scheduled,3,3
+4,2025-09-13T10:00:00Z,295,8,Crystal Palace,11,Leeds,30,scheduled,2,3
+4,2025-09-13T10:00:00Z,296,12,Liverpool,18,Spurs,30,scheduled,2,4
+4,2025-09-13T10:00:00Z,297,14,Man Utd,2,Aston Villa,30,scheduled,3,4
+4,2025-09-13T10:00:00Z,298,16,Nott'm Forest,10,Fulham,30,scheduled,3,3
+4,2025-09-13T10:00:00Z,299,17,Sunderland,6,Brighton,30,scheduled,3,3
+4,2025-09-13T10:00:00Z,300,19,West Ham,13,Man City,30,scheduled,4,2
+4,2025-09-13T10:00:00Z,301,2,Aston Villa,19,West Ham,31,scheduled,2,4
+4,2025-09-13T10:00:00Z,302,4,Bournemouth,14,Man Utd,31,scheduled,3,3
+4,2025-09-13T10:00:00Z,303,6,Brighton,12,Liverpool,31,scheduled,3,4
+4,2025-09-13T10:00:00Z,304,9,Everton,7,Chelsea,31,scheduled,3,3
+4,2025-09-13T10:00:00Z,305,10,Fulham,3,Burnley,31,scheduled,1,3
+4,2025-09-13T10:00:00Z,306,11,Leeds,5,Brentford,31,scheduled,3,3
+4,2025-09-13T10:00:00Z,307,13,Man City,8,Crystal Palace,31,scheduled,3,5
+4,2025-09-13T10:00:00Z,308,15,Newcastle,17,Sunderland,31,scheduled,2,3
+4,2025-09-13T10:00:00Z,309,18,Spurs,16,Nott'm Forest,31,scheduled,2,2
+4,2025-09-13T10:00:00Z,310,20,Wolves,1,Arsenal,31,scheduled,4,2
+4,2025-09-13T10:00:00Z,311,1,Arsenal,4,Bournemouth,32,scheduled,3,5
+4,2025-09-13T10:00:00Z,312,5,Brentford,9,Everton,32,scheduled,3,3
+4,2025-09-13T10:00:00Z,313,3,Burnley,6,Brighton,32,scheduled,3,2
+4,2025-09-13T10:00:00Z,314,7,Chelsea,13,Man City,32,scheduled,4,3
+4,2025-09-13T10:00:00Z,315,8,Crystal Palace,15,Newcastle,32,scheduled,3,3
+4,2025-09-13T10:00:00Z,316,12,Liverpool,10,Fulham,32,scheduled,3,4
+4,2025-09-13T10:00:00Z,317,14,Man Utd,11,Leeds,32,scheduled,2,4
+4,2025-09-13T10:00:00Z,318,16,Nott'm Forest,2,Aston Villa,32,scheduled,3,3
+4,2025-09-13T10:00:00Z,319,17,Sunderland,18,Spurs,32,scheduled,2,3
+4,2025-09-13T10:00:00Z,320,19,West Ham,20,Wolves,32,scheduled,1,2
+4,2025-09-13T10:00:00Z,321,2,Aston Villa,17,Sunderland,33,scheduled,2,4
+4,2025-09-13T10:00:00Z,322,5,Brentford,10,Fulham,33,scheduled,3,3
+4,2025-09-13T10:00:00Z,323,7,Chelsea,14,Man Utd,33,scheduled,3,3
+4,2025-09-13T10:00:00Z,324,8,Crystal Palace,19,West Ham,33,scheduled,2,3
+4,2025-09-13T10:00:00Z,325,9,Everton,12,Liverpool,33,scheduled,3,3
+4,2025-09-13T10:00:00Z,326,11,Leeds,20,Wolves,33,scheduled,1,3
+4,2025-09-13T10:00:00Z,327,13,Man City,1,Arsenal,33,scheduled,4,5
+4,2025-09-13T10:00:00Z,328,15,Newcastle,4,Bournemouth,33,scheduled,3,3
+4,2025-09-13T10:00:00Z,329,16,Nott'm Forest,3,Burnley,33,scheduled,1,3
+4,2025-09-13T10:00:00Z,330,18,Spurs,6,Brighton,33,scheduled,3,2
+4,2025-09-13T10:00:00Z,331,1,Arsenal,15,Newcastle,34,scheduled,3,5
+4,2025-09-13T10:00:00Z,332,4,Bournemouth,11,Leeds,34,scheduled,2,3
+4,2025-09-13T10:00:00Z,333,6,Brighton,7,Chelsea,34,scheduled,3,4
+4,2025-09-13T10:00:00Z,334,3,Burnley,13,Man City,34,scheduled,4,2
+4,2025-09-13T10:00:00Z,335,10,Fulham,2,Aston Villa,34,scheduled,3,3
+4,2025-09-13T10:00:00Z,336,12,Liverpool,8,Crystal Palace,34,scheduled,3,4
+4,2025-09-13T10:00:00Z,337,14,Man Utd,5,Brentford,34,scheduled,3,4
+4,2025-09-13T10:00:00Z,338,17,Sunderland,16,Nott'm Forest,34,scheduled,2,3
+4,2025-09-13T10:00:00Z,339,19,West Ham,9,Everton,34,scheduled,3,2
+4,2025-09-13T10:00:00Z,340,20,Wolves,18,Spurs,34,scheduled,2,2
+4,2025-09-13T10:00:00Z,341,1,Arsenal,10,Fulham,35,scheduled,3,5
+4,2025-09-13T10:00:00Z,342,2,Aston Villa,18,Spurs,35,scheduled,2,4
+4,2025-09-13T10:00:00Z,343,4,Bournemouth,8,Crystal Palace,35,scheduled,3,3
+4,2025-09-13T10:00:00Z,344,5,Brentford,19,West Ham,35,scheduled,2,3
+4,2025-09-13T10:00:00Z,345,7,Chelsea,16,Nott'm Forest,35,scheduled,2,3
+4,2025-09-13T10:00:00Z,346,9,Everton,13,Man City,35,scheduled,4,3
+4,2025-09-13T10:00:00Z,347,11,Leeds,3,Burnley,35,scheduled,1,3
+4,2025-09-13T10:00:00Z,348,14,Man Utd,12,Liverpool,35,scheduled,3,4
+4,2025-09-13T10:00:00Z,349,15,Newcastle,6,Brighton,35,scheduled,3,3
+4,2025-09-13T10:00:00Z,350,20,Wolves,17,Sunderland,35,scheduled,2,2
+4,2025-09-13T10:00:00Z,351,6,Brighton,20,Wolves,36,scheduled,1,4
+4,2025-09-13T10:00:00Z,352,3,Burnley,2,Aston Villa,36,scheduled,3,2
+4,2025-09-13T10:00:00Z,353,8,Crystal Palace,9,Everton,36,scheduled,3,3
+4,2025-09-13T10:00:00Z,354,10,Fulham,4,Bournemouth,36,scheduled,3,3
+4,2025-09-13T10:00:00Z,355,12,Liverpool,7,Chelsea,36,scheduled,3,4
+4,2025-09-13T10:00:00Z,356,13,Man City,5,Brentford,36,scheduled,3,5
+4,2025-09-13T10:00:00Z,357,16,Nott'm Forest,15,Newcastle,36,scheduled,3,3
+4,2025-09-13T10:00:00Z,358,17,Sunderland,14,Man Utd,36,scheduled,3,3
+4,2025-09-13T10:00:00Z,359,18,Spurs,11,Leeds,36,scheduled,2,2
+4,2025-09-13T10:00:00Z,360,19,West Ham,1,Arsenal,36,scheduled,4,2
+4,2025-09-13T10:00:00Z,361,1,Arsenal,3,Burnley,37,scheduled,1,5
+4,2025-09-13T10:00:00Z,362,2,Aston Villa,12,Liverpool,37,scheduled,3,4
+4,2025-09-13T10:00:00Z,363,4,Bournemouth,13,Man City,37,scheduled,4,3
+4,2025-09-13T10:00:00Z,364,5,Brentford,8,Crystal Palace,37,scheduled,3,3
+4,2025-09-13T10:00:00Z,365,7,Chelsea,18,Spurs,37,scheduled,2,3
+4,2025-09-13T10:00:00Z,366,9,Everton,17,Sunderland,37,scheduled,2,3
+4,2025-09-13T10:00:00Z,367,11,Leeds,6,Brighton,37,scheduled,3,3
+4,2025-09-13T10:00:00Z,368,14,Man Utd,16,Nott'm Forest,37,scheduled,2,4
+4,2025-09-13T10:00:00Z,369,15,Newcastle,19,West Ham,37,scheduled,2,3
+4,2025-09-13T10:00:00Z,370,20,Wolves,10,Fulham,37,scheduled,3,2
+4,2025-09-13T10:00:00Z,371,6,Brighton,14,Man Utd,38,scheduled,3,4
+4,2025-09-13T10:00:00Z,372,3,Burnley,20,Wolves,38,scheduled,1,2
+4,2025-09-13T10:00:00Z,373,8,Crystal Palace,1,Arsenal,38,scheduled,4,3
+4,2025-09-13T10:00:00Z,374,10,Fulham,15,Newcastle,38,scheduled,3,3
+4,2025-09-13T10:00:00Z,375,12,Liverpool,5,Brentford,38,scheduled,3,4
+4,2025-09-13T10:00:00Z,376,13,Man City,2,Aston Villa,38,scheduled,3,5
+4,2025-09-13T10:00:00Z,377,16,Nott'm Forest,4,Bournemouth,38,scheduled,3,3
+4,2025-09-13T10:00:00Z,378,17,Sunderland,7,Chelsea,38,scheduled,3,3
+4,2025-09-13T10:00:00Z,379,18,Spurs,9,Everton,38,scheduled,3,2
+4,2025-09-13T10:00:00Z,380,19,West Ham,11,Leeds,38,scheduled,2,2

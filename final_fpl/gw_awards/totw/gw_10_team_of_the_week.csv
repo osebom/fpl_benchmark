@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+10,5,Gabriel,1,Arsenal,Defender,12,90,0,1,1,0,2,39
+10,21,Rice,1,Arsenal,Midfielder,13,90,1,0,1,0,3,47
+10,169,Gomez,6,Brighton,Midfielder,16,80,2,0,1,0,3,56
+10,249,João Pedro,7,Chelsea,Forward,9,90,1,0,1,0,3,44
+10,260,Guéhi,8,Crystal Palace,Defender,10,90,0,0,1,0,2,34
+10,314,Leno,10,Fulham,Goalkeeper,7,90,0,0,1,2,1,28
+10,328,Sessegnon,10,Fulham,Midfielder,14,90,1,1,1,0,3,40
+10,372,Robertson,12,Liverpool,Defender,8,90,0,0,1,0,2,31
+10,390,Gravenberch,12,Liverpool,Midfielder,11,90,1,0,1,0,3,40
+10,430,Haaland,13,Man City,Forward,13,81,2,0,0,0,3,62
+10,457,Casemiro,14,Man Utd,Midfielder,12,90,1,0,0,0,3,39

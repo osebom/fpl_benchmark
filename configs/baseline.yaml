@@ -1,0 +1,78 @@
+# Recipe for one historical FPL run. Loaded by Simulation.from_config().
+# Squad rules (budget, lineup, chips) live in ruleset_path, not here.
+
+experiment:
+  # MLflow run name and the simulation's config_name.
+  name: command_a_plus_baseline_v2
+
+model:
+  # Label only. The harness always builds a Cohere client.
+  provider: cohere
+  # Cohere model id sent on every chat call.
+  name: command-a-plus-05-2026
+  # Lower is more conservative. 0.3 keeps squad choices fairly stable.
+  temperature: 0.3
+  # Passed to Cohere so repeated calls are more reproducible.
+  seed: 42
+  # Not read by the agent. Tools are always attached and the model chooses when to call them.
+  tool_choice: auto
+
+skill:
+  # When true, path is prepended to the system prompt each gameweek.
+  enabled: true
+  # Logged to MLflow only. The code loads path, not this version string.
+  version: baseline_v2
+  # Manager playbook: how to rank players, use stats, and play chips.
+  path: skills/baseline/SKILL.md
+
+tools:
+  # core_v1 is the smaller tool list. extended_v1 adds fixture history,
+  # team results, top performers, and manager history.
+  set: core_v1
+
+# Logged to MLflow only. None of these change behavior yet.
+memory:
+  # none: no extra strategy notebook between gameweeks.
+  # The harness still includes the previous gameweek result in the brief.
+  type: none
+
+reflection:
+  # false: no extra "review your own decision" pass.
+  enabled: false
+
+subagents:
+  # false: one model handles the whole gameweek.
+  enabled: false
+
+agent:
+  # One model response counts as a turn. Each function call counts as a tool call.
+  # At the tool-call cap the agent is told to lock with submit_lineup.
+  # If it never submits a valid lineup, the gameweek is not locked.
+  max_tool_calls_per_gw: 60
+  max_turns_per_gw: 60
+
+world:
+  # Label for the final_fpl/ CSV bundle. The loader always uses that directory.
+  dataset: final_fpl
+  # Passed to the world loader and logged, so a later data refresh can be told apart.
+  dataset_version: v1
+  # Intent flag only. Deadline cutoffs are enforced by the world repository.
+  future_leakage_protection: true
+
+tracking:
+  # Label only. The real destination comes from MLFLOW_TRACKING_URI in .env.
+  provider: databricks
+  # Used when MLFLOW_EXPERIMENT_ID / MLFLOW_EXPERIMENT_NAME are unset.
+  experiment_name: /Shared/fpl_sim
+
+simulation:
+  # Human-readable title stored on the simulation row.
+  name: Command A+ Baseline
+  # Season key inside the dataset snapshots.
+  season: "2025_26"
+  # Stored on the simulation. Live mode is not wired up.
+  mode: historical
+  # Logged only. The rules engine loads ruleset_path.
+  rules_version: v1
+  # Budget, squad size, transfers, and chips.
+  ruleset_path: configs/rules/fpl_2025_26.yaml

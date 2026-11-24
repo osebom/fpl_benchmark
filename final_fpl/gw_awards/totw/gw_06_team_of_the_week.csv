@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+6,5,Gabriel,1,Arsenal,Defender,13,90,1,0,0,0,3,34
+6,50,Buendía,2,Aston Villa,Midfielder,12,45,1,1,0,0,3,33
+6,136,Thiago,5,Brentford,Forward,13,89,2,0,0,0,3,62
+6,178,Welbeck,6,Brighton,Forward,11,23,2,0,0,0,3,49
+6,267,Sarr,8,Crystal Palace,Midfielder,11,74,1,0,1,0,3,29
+6,407,Matheus N.,13,Man City,Defender,12,90,1,1,0,0,1,33
+6,430,Haaland,13,Man City,Forward,16,90,2,1,0,0,3,68
+6,493,Longstaff,11,Leeds,Midfielder,15,90,1,1,0,0,3,64
+6,636,S.Bueno,20,Wolves,Defender,12,90,1,0,0,0,2,32
+6,670,Roefs,17,Sunderland,Goalkeeper,10,90,0,0,1,6,2,39
+6,683,Alderete,17,Sunderland,Defender,17,90,1,0,1,0,3,45

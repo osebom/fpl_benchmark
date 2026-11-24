@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+27,169,Gomez,6,Brighton,Midfielder,10,75,1,0,1,0,2,30
+27,253,Henderson,8,Crystal Palace,Goalkeeper,16,90,0,0,1,7,3,50
+27,258,Mitchell,8,Crystal Palace,Defender,11,90,0,1,1,0,2,40
+27,266,Eze,1,Arsenal,Midfielder,14,76,2,0,0,0,2,47
+27,324,Iwobi,10,Fulham,Midfielder,13,87,1,1,0,0,3,48
+27,337,Raúl,10,Fulham,Forward,11,64,2,0,1,0,2,45
+27,373,Virgil,12,Liverpool,Defender,11,90,0,1,1,0,2,34
+27,386,Mac Allister,12,Liverpool,Midfielder,13,90,1,0,1,0,3,37
+27,411,O'Reilly,13,Man City,Defender,17,90,2,0,0,0,3,32
+27,660,Stach,11,Leeds,Midfielder,11,82,1,0,1,0,3,31
+27,666,Gyökeres,1,Arsenal,Forward,13,90,2,0,0,0,3,66

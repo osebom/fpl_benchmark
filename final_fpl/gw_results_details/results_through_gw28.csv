@@ -1,0 +1,282 @@
+fixture_id,gameweek,kickoff_time,home_team_id,home_team_name,home_score,away_team_id,away_team_name,away_score,home_goalscorer_ids,home_goalscorer_names,home_goal_scorer_id_array,away_goalscorer_ids,away_goalscorer_names,away_goal_scorer_id_array,own_goal_scorer_ids,own_goal_scorer_names,own_goal_scorer_id_array,own_goal_team_ids,own_goal_team_names,fpl_3_bonus_player_ids,fpl_3_bonus_player_names
+271,28,2026-03-01T16:30:00Z,1,Arsenal,2,7,Chelsea,1,"6, 8","Saliba, J.Timber","[6, 8]",,,[],725,Hincapie,[725],1,Arsenal,5,Gabriel
+272,28,2026-02-28T12:30:00Z,4,Bournemouth,1,17,Sunderland,1,97,Evanilson,[97],561,Mayenda,[561],,,[],,,561,Mayenda
+273,28,2026-03-01T14:00:00Z,6,Brighton,2,16,Nott'm Forest,1,"169, 178","Gomez, Welbeck","[169, 178]",515,Gibbs-White,[515],,,[],,,178,Welbeck
+274,28,2026-02-28T15:00:00Z,3,Burnley,3,5,Brentford,4,"200, 215","Anthony, Flemming","[200, 215]","121, 120, 136","Damsgaard, Schade, Thiago","[121, 121, 120, 136]",110,Kayode,[110],5,Brentford,121,Damsgaard
+275,28,2026-03-01T14:00:00Z,10,Fulham,2,18,Spurs,1,"324, 329","Iwobi, Wilson","[324, 329]",597,Richarlison,[597],,,[],,,324,Iwobi
+276,28,2026-02-28T17:30:00Z,11,Leeds,0,13,Man City,1,,,[],82,Semenyo,[82],,,[],,,402,Aït-Nouri
+277,28,2026-02-28T15:00:00Z,12,Liverpool,5,19,West Ham,2,"373, 384, 386, 661","Virgil, Gakpo, Mac Allister, Ekitiké","[373, 384, 386, 661]","613, 791","Souček, Taty","[613, 791]",815,Disasi,[815],19,West Ham,661,Ekitiké
+278,28,2026-03-01T14:00:00Z,14,Man Utd,2,8,Crystal Palace,1,"449, 681","B.Fernandes, Šeško","[449, 681]",257,Lacroix,[257],,,[],,,449,B.Fernandes
+279,28,2026-02-28T15:00:00Z,15,Newcastle,2,9,Everton,3,"52, 489","J.Ramsey, J.Murphy","[52, 489]","290, 310, 311","Branthwaite, Barry, Beto","[290, 310, 311]",,,[],,,311,Beto
+280,28,2026-02-27T20:00:00Z,20,Wolves,2,2,Aston Villa,0,"635, 646","R.Gomes, J.Gomes","[635, 646]",,,[],,,[],,,646,J.Gomes
+261,27,2026-02-21T15:00:00Z,2,Aston Villa,1,11,Leeds,1,808,Abraham,[808],660,Stach,[660],,,[],,,660,Stach
+262,27,2026-02-21T15:00:00Z,5,Brentford,0,6,Brighton,2,,,[],"169, 178","Gomez, Welbeck","[169, 178]",,,[],,,178,Welbeck
+263,27,2026-02-21T15:00:00Z,7,Chelsea,1,3,Burnley,1,249,João Pedro,[249],215,Flemming,[215],,,[],,,215,Flemming
+264,27,2026-02-22T14:00:00Z,8,Crystal Palace,1,20,Wolves,0,677,Guessand,[677],,,[],,,[],,,253,Henderson
+265,27,2026-02-23T20:00:00Z,9,Everton,0,14,Man Utd,1,,,[],681,Šeško,[681],,,[],,,681,Šeško
+266,27,2026-02-21T20:00:00Z,13,Man City,2,15,Newcastle,1,411,O'Reilly,"[411, 411]",473,Hall,[473],,,[],,,411,O'Reilly
+267,27,2026-02-22T14:00:00Z,16,Nott'm Forest,0,12,Liverpool,1,,,[],386,Mac Allister,[386],,,[],,,386,Mac Allister
+268,27,2026-02-22T14:00:00Z,17,Sunderland,1,10,Fulham,3,547,E.Le Fée,[547],"337, 324","Raúl, Iwobi","[337, 337, 324]",,,[],,,324,Iwobi
+269,27,2026-02-22T16:30:00Z,18,Spurs,1,1,Arsenal,4,726,Kolo Muani,[726],"266, 666","Eze, Gyökeres","[266, 266, 666, 666]",,,[],,,666,Gyökeres
+270,27,2026-02-21T17:30:00Z,19,West Ham,0,4,Bournemouth,0,,,[],,,[],,,[],,,679,Hermansen
+251,26,2026-02-11T19:30:00Z,2,Aston Villa,1,6,Brighton,0,,,[],,,[],163,Hinshelwood,[163],6,Brighton,40,Mings
+252,26,2026-02-12T20:00:00Z,5,Brentford,1,1,Arsenal,1,107,Lewis-Potter,[107],18,Madueke,[18],,,[],,,18,Madueke
+253,26,2026-02-10T19:30:00Z,7,Chelsea,2,11,Leeds,2,"235, 249","Palmer, João Pedro","[235, 249]","365, 698","Nmecha, Okafor","[365, 698]",,,[],,,235,Palmer
+254,26,2026-02-11T19:40:00Z,8,Crystal Palace,2,3,Burnley,3,654,Strand Larsen,"[654, 654]","200, 207","Anthony, Hannibal","[200, 207]",272,Lerma,[272],8,Crystal Palace,654,Strand Larsen
+255,26,2026-02-10T19:30:00Z,9,Everton,1,4,Bournemouth,2,299,Ndiaye,[299],"697, 807","Adli, Rayan","[697, 807]",,,[],,,697,Adli
+256,26,2026-02-11T19:30:00Z,13,Man City,3,10,Fulham,0,"82, 411, 430","Semenyo, O'Reilly, Haaland","[82, 411, 430]",,,[],,,[],,,"82, 402","Semenyo, Aït-Nouri"
+257,26,2026-02-11T19:30:00Z,16,Nott'm Forest,0,20,Wolves,0,,,[],,,[],,,[],,,628,José Sá
+258,26,2026-02-11T20:15:00Z,17,Sunderland,0,12,Liverpool,1,,,[],373,Virgil,[373],,,[],,,373,Virgil
+259,26,2026-02-10T19:30:00Z,18,Spurs,1,15,Newcastle,2,591,Gray,[591],"52, 684","J.Ramsey, Thiaw","[52, 684]",,,[],,,591,Gray
+260,26,2026-02-10T20:15:00Z,19,West Ham,1,14,Man Utd,1,613,Souček,[613],681,Šeško,[681],,,[],,,681,Šeško
+310,26,2026-02-18T20:00:00Z,20,Wolves,2,1,Arsenal,2,"633, 651","H.Bueno, Edozie","[633, 651]","16, 725","Saka, Hincapie","[16, 725]",,,[],,,16,Saka
+241,25,2026-02-07T15:00:00Z,1,Arsenal,3,17,Sunderland,0,"666, 26","Gyökeres, Zubimendi","[666, 666, 26]",,,[],,,[],,,666,Gyökeres
+242,25,2026-02-07T15:00:00Z,4,Bournemouth,1,2,Aston Villa,1,807,Rayan,[807],47,Rogers,[47],,,[],,,47,Rogers
+243,25,2026-02-08T14:00:00Z,6,Brighton,0,8,Crystal Palace,1,,,[],267,Sarr,[267],,,[],,,257,Lacroix
+244,25,2026-02-07T15:00:00Z,3,Burnley,0,19,West Ham,2,,,[],"615, 791","Summerville, Taty","[615, 791]",,,[],,,"615, 679","Summerville, Hermansen"
+245,25,2026-02-07T15:00:00Z,10,Fulham,1,9,Everton,2,,,[],242,Dewsbury-Hall,[242],"314, 292","Leno, Mykolenko","[314, 292]","10, 9","Fulham, Everton",242,Dewsbury-Hall
+246,25,2026-02-06T20:00:00Z,11,Leeds,3,16,Nott'm Forest,1,"342, 691, 698","Bogle, Calvert-Lewin, Okafor","[342, 691, 698]",805,Lucca,[805],,,[],,,356,Gruev
+247,25,2026-02-08T16:30:00Z,12,Liverpool,1,13,Man City,2,387,Szoboszlai,[387],"416, 430","Bernardo, Haaland","[416, 430]",,,[],,,430,Haaland
+248,25,2026-02-07T12:30:00Z,14,Man Utd,2,18,Spurs,0,"119, 449","Mbeumo, B.Fernandes","[119, 449]",,,[],,,[],,,440,Dalot
+249,25,2026-02-07T17:30:00Z,15,Newcastle,2,5,Brentford,3,"475, 488","Botman, Bruno G.","[475, 488]","83, 125, 136","O.Dango, Janelt, Thiago","[83, 125, 136]",,,[],,,125,Janelt
+250,25,2026-02-07T15:00:00Z,20,Wolves,1,7,Chelsea,3,720,Tolu,[720],235,Palmer,"[235, 235, 235]",,,[],,,235,Palmer
+231,24,2026-02-01T14:00:00Z,2,Aston Villa,0,5,Brentford,1,,,[],83,O.Dango,[83],,,[],,,101,Kelleher
+232,24,2026-01-31T15:00:00Z,6,Brighton,1,9,Everton,1,783,Groß,[783],311,Beto,[311],,,[],,,783,Groß
+233,24,2026-01-31T17:30:00Z,7,Chelsea,3,19,West Ham,2,"224, 237, 249","Cucurella, Enzo, João Pedro","[224, 237, 249]","615, 624","Summerville, Bowen","[615, 624]",,,[],,,249,João Pedro
+234,24,2026-01-31T15:00:00Z,11,Leeds,0,1,Arsenal,4,,,[],"18, 26, 31, 666","Madueke, Zubimendi, G.Jesus, Gyökeres","[18, 26, 31, 666]",,,[],,,18,Madueke
+235,24,2026-01-31T20:00:00Z,12,Liverpool,4,15,Newcastle,1,"661, 374, 382","Ekitiké, Konaté, Wirtz","[661, 661, 374, 382]",485,Gordon,[485],,,[],,,661,Ekitiké
+236,24,2026-02-01T14:00:00Z,14,Man Utd,3,10,Fulham,2,"450, 457, 681","Cunha, Casemiro, Šeško","[450, 457, 681]","337, 731","Raúl, Kevin","[337, 731]",,,[],,,457,Casemiro
+237,24,2026-02-01T14:00:00Z,16,Nott'm Forest,1,8,Crystal Palace,1,515,Gibbs-White,[515],267,Sarr,[267],,,[],,,517,Anderson
+238,24,2026-02-02T20:00:00Z,17,Sunderland,3,3,Burnley,0,"544, 553","Diarra, Talbi","[544, 553]",,,[],198,Tuanzebe,[198],3,Burnley,544,Diarra
+239,24,2026-02-01T16:30:00Z,18,Spurs,2,13,Man City,2,596,Solanke,"[596, 596]","82, 417","Semenyo, Cherki","[82, 417]",,,[],,,596,Solanke
+240,24,2026-01-31T15:00:00Z,20,Wolves,0,4,Bournemouth,2,,,[],"90, 100","Scott, Kroupi.Jr","[90, 100]",,,[],,,90,Scott
+221,23,2026-01-25T16:30:00Z,1,Arsenal,2,14,Man Utd,3,22,Merino,[22],"119, 441, 450","Mbeumo, Dorgu, Cunha","[119, 441, 450]",437,Martinez,[437],14,Man Utd,"119, 450","Mbeumo, Cunha"
+222,23,2026-01-24T17:30:00Z,4,Bournemouth,3,12,Liverpool,2,"97, 697, 713","Evanilson, Adli, A.Jimenez","[97, 697, 713]","373, 387","Virgil, Szoboszlai","[373, 387]",,,[],,,387,Szoboszlai
+223,23,2026-01-25T14:00:00Z,5,Brentford,0,16,Nott'm Forest,2,,,[],"526, 527","Igor Jesus, Awoniyi","[526, 527]",,,[],,,526,Igor Jesus
+224,23,2026-01-24T15:00:00Z,3,Burnley,2,18,Spurs,2,"198, 217","Tuanzebe, Foster","[198, 217]","569, 575","Romero, Van de Ven","[569, 575]",,,[],,,588,Odobert
+225,23,2026-01-25T14:00:00Z,8,Crystal Palace,1,7,Chelsea,3,261,Richards,[261],"237, 238, 249","Enzo, Estêvão, João Pedro","[237, 238, 249]",,,[],,,249,João Pedro
+226,23,2026-01-26T20:00:00Z,9,Everton,1,11,Leeds,1,310,Barry,[310],706,Justin,[706],,,[],,,310,Barry
+227,23,2026-01-24T15:00:00Z,10,Fulham,2,6,Brighton,1,"329, 727","Wilson, Chukwueze","[329, 727]",166,Ayari,[166],,,[],,,329,Wilson
+228,23,2026-01-24T15:00:00Z,13,Man City,2,20,Wolves,0,"82, 413","Semenyo, Marmoush","[82, 413]",,,[],,,[],,,407,Matheus N.
+229,23,2026-01-25T14:00:00Z,15,Newcastle,0,2,Aston Villa,2,,,[],"50, 64","Buendía, Watkins","[50, 64]",,,[],,,32,Martinez
+230,23,2026-01-24T12:30:00Z,19,West Ham,3,17,Sunderland,1,"615, 624, 708","Summerville, Bowen, M.Fernandes","[615, 624, 708]",730,Brobbey,[730],,,[],,,624,Bowen
+211,22,2026-01-18T16:30:00Z,2,Aston Villa,0,9,Everton,1,,,[],310,Barry,[310],,,[],,,287,Pickford
+212,22,2026-01-19T20:00:00Z,6,Brighton,1,4,Bournemouth,1,181,Kostoulas,[181],84,Tavernier,[84],,,[],,,181,Kostoulas
+213,22,2026-01-17T15:00:00Z,7,Chelsea,2,5,Brentford,0,"235, 249","Palmer, João Pedro","[235, 249]",,,[],,,[],,,220,Sánchez
+214,22,2026-01-17T15:00:00Z,11,Leeds,1,10,Fulham,0,365,Nmecha,[365],,,[],,,[],,,706,Justin
+215,22,2026-01-17T15:00:00Z,12,Liverpool,1,3,Burnley,1,382,Wirtz,[382],206,Edwards,[206],,,[],,,382,Wirtz
+216,22,2026-01-17T12:30:00Z,14,Man Utd,2,13,Man City,0,"119, 441","Mbeumo, Dorgu","[119, 441]",,,[],,,[],,,441,Dorgu
+217,22,2026-01-17T17:30:00Z,16,Nott'm Forest,0,1,Arsenal,0,,,[],,,[],,,[],,,502,Sels
+218,22,2026-01-17T15:00:00Z,17,Sunderland,2,8,Crystal Palace,1,"547, 730","E.Le Fée, Brobbey","[547, 730]",712,Yeremy,[712],,,[],,,730,Brobbey
+219,22,2026-01-17T15:00:00Z,18,Spurs,1,19,West Ham,2,569,Romero,[569],"615, 671","Summerville, Wilson","[615, 671]",,,[],,,615,Summerville
+220,22,2026-01-18T14:00:00Z,20,Wolves,0,15,Newcastle,0,,,[],,,[],,,[],,,"473, 684","Hall, Thiaw"
+201,21,2026-01-08T20:00:00Z,1,Arsenal,0,12,Liverpool,0,,,[],,,[],,,[],,,"366, 371","A.Becker, Kerkez"
+202,21,2026-01-07T19:30:00Z,4,Bournemouth,3,18,Spurs,2,"82, 97, 100","Semenyo, Evanilson, Kroupi.Jr","[82, 97, 100]","584, 673","Tel, J.Palhinha","[584, 673]",,,[],,,584,Tel
+203,21,2026-01-07T19:30:00Z,5,Brentford,3,17,Sunderland,0,"136, 129","Thiago, Yarmoliuk","[136, 136, 129]",,,[],,,[],,,136,Thiago
+204,21,2026-01-07T20:15:00Z,3,Burnley,2,14,Man Utd,2,200,Anthony,[200],681,Šeško,"[681, 681]",447,Heaven,[447],14,Man Utd,681,Šeško
+205,21,2026-01-07T19:30:00Z,8,Crystal Palace,0,2,Aston Villa,0,,,[],,,[],,,[],,,37,Digne
+206,21,2026-01-07T19:30:00Z,9,Everton,1,20,Wolves,1,295,Keane,[295],749,Mané,[749],,,[],,,749,Mané
+207,21,2026-01-07T19:30:00Z,10,Fulham,2,7,Chelsea,1,"329, 337","Wilson, Raúl","[329, 337]",250,Delap,[250],,,[],,,330,Berge
+208,21,2026-01-07T19:30:00Z,13,Man City,1,6,Brighton,1,430,Haaland,[430],157,Mitoma,[157],,,[],,,418,Doku
+209,21,2026-01-07T20:15:00Z,15,Newcastle,4,11,Leeds,3,"487, 488, 490","Barnes, Bruno G., Joelinton","[487, 487, 488, 490]","350, 691","Aaronson, Calvert-Lewin","[350, 350, 691]",,,[],,,487,Barnes
+210,21,2026-01-06T20:00:00Z,19,West Ham,1,16,Nott'm Forest,2,,,[],"515, 519","Gibbs-White, Dominguez","[515, 519]",506,Murillo,[506],16,Nott'm Forest,519,Dominguez
+191,20,2026-01-03T12:30:00Z,2,Aston Villa,3,16,Nott'm Forest,1,"54, 64","McGinn, Watkins","[54, 54, 64]",515,Gibbs-White,[515],,,[],,,54,McGinn
+192,20,2026-01-03T17:30:00Z,4,Bournemouth,2,1,Arsenal,3,"97, 100","Evanilson, Kroupi.Jr","[97, 100]","21, 5","Rice, Gabriel","[21, 21, 5]",,,[],,,21,Rice
+193,20,2026-01-03T15:00:00Z,6,Brighton,2,3,Burnley,0,"158, 166","Georginio, Ayari","[158, 166]",,,[],,,[],,,148,F.Kadıoğlu
+194,20,2026-01-04T15:00:00Z,9,Everton,2,5,Brentford,4,"310, 311","Barry, Beto","[310, 311]","136, 106","Thiago, Collins","[136, 136, 136, 106]",,,[],,,136,Thiago
+195,20,2026-01-04T15:15:00Z,10,Fulham,2,12,Liverpool,2,"329, 336","Wilson, Reed","[329, 336]","382, 384","Wirtz, Gakpo","[382, 384]",,,[],,,382,Wirtz
+196,20,2026-01-04T12:30:00Z,11,Leeds,1,14,Man Utd,1,350,Aaronson,[350],450,Cunha,[450],,,[],,,457,Casemiro
+197,20,2026-01-04T17:30:00Z,13,Man City,1,7,Chelsea,1,427,Reijnders,[427],237,Enzo,[237],,,[],,,237,Enzo
+198,20,2026-01-04T15:00:00Z,15,Newcastle,2,8,Crystal Palace,0,"488, 684","Bruno G., Thiaw","[488, 684]",,,[],,,[],,,684,Thiaw
+199,20,2026-01-04T15:00:00Z,18,Spurs,1,17,Sunderland,1,571,Davies,[571],730,Brobbey,[730],,,[],,,730,Brobbey
+200,20,2026-01-03T15:00:00Z,20,Wolves,3,19,West Ham,0,"642, 663, 749","Hee Chan, J.Arias, Mané","[642, 663, 749]",,,[],,,[],,,749,Mané
+181,19,2025-12-30T20:15:00Z,1,Arsenal,4,2,Aston Villa,1,"5, 20, 26, 31","Gabriel, Trossard, Zubimendi, G.Jesus","[5, 20, 26, 31]",64,Watkins,[64],,,[],,,"5, 20","Gabriel, Trossard"
+182,19,2026-01-01T20:00:00Z,5,Brentford,0,18,Spurs,0,,,[],,,[],,,[],,,106,Collins
+183,19,2025-12-30T19:30:00Z,3,Burnley,1,15,Newcastle,3,209,Laurent,[209],"135, 488, 490","Wissa, Bruno G., Joelinton","[135, 488, 490]",,,[],,,488,Bruno G.
+184,19,2025-12-30T19:30:00Z,7,Chelsea,2,4,Bournemouth,2,"235, 237","Palmer, Enzo","[235, 237]","81, 86","Kluivert, Brooks","[81, 86]",,,[],,,86,Brooks
+185,19,2026-01-01T17:30:00Z,8,Crystal Palace,1,10,Fulham,1,283,Mateta,[283],331,Cairney,[331],,,[],,,283,Mateta
+186,19,2026-01-01T17:30:00Z,12,Liverpool,0,11,Leeds,0,,,[],,,[],,,[],,,665,Perri
+187,19,2025-12-30T20:15:00Z,14,Man Utd,1,20,Wolves,1,466,Zirkzee,[466],709,Krejčí,[709],,,[],,,466,Zirkzee
+188,19,2025-12-30T19:30:00Z,16,Nott'm Forest,0,9,Everton,2,,,[],"303, 310","Garner, Barry","[303, 310]",,,[],,,303,Garner
+189,19,2026-01-01T20:00:00Z,17,Sunderland,0,13,Man City,0,,,[],,,[],,,[],,,"694, 407","Mukiele, Matheus N."
+190,19,2025-12-30T19:30:00Z,19,West Ham,2,6,Brighton,2,"612, 624","L.Paquetá, Bowen","[612, 624]","152, 178","Veltman, Welbeck","[152, 178]",,,[],,,612,L.Paquetá
+171,18,2025-12-27T15:00:00Z,1,Arsenal,2,6,Brighton,1,17,Ødegaard,[17],169,Gomez,[169],158,Georginio,[158],6,Brighton,17,Ødegaard
+172,18,2025-12-27T15:00:00Z,5,Brentford,4,4,Bournemouth,1,120,Schade,"[120, 120, 120]",82,Semenyo,[82],67,Petrović,[67],4,Bournemouth,120,Schade
+173,18,2025-12-27T15:00:00Z,3,Burnley,0,9,Everton,0,,,[],,,[],,,[],,,470,Dúbravka
+174,18,2025-12-27T17:30:00Z,7,Chelsea,1,2,Aston Villa,2,249,João Pedro,[249],64,Watkins,"[64, 64]",,,[],,,64,Watkins
+175,18,2025-12-28T16:30:00Z,8,Crystal Palace,0,18,Spurs,1,,,[],591,Gray,[591],,,[],,,"575, 591","Van de Ven, Gray"
+176,18,2025-12-27T15:00:00Z,12,Liverpool,2,20,Wolves,1,"382, 390","Wirtz, Gravenberch","[382, 390]",636,S.Bueno,[636],,,[],,,382,Wirtz
+177,18,2025-12-26T20:00:00Z,14,Man Utd,1,15,Newcastle,0,441,Dorgu,[441],,,[],,,[],,,441,Dorgu
+178,18,2025-12-27T12:30:00Z,16,Nott'm Forest,1,13,Man City,2,693,Hutchinson,[693],"417, 427","Cherki, Reijnders","[417, 427]",,,[],,,417,Cherki
+179,18,2025-12-28T14:00:00Z,17,Sunderland,1,11,Leeds,1,543,Adingra,[543],691,Calvert-Lewin,[691],,,[],,,543,Adingra
+180,18,2025-12-27T15:00:00Z,19,West Ham,0,10,Fulham,1,,,[],337,Raúl,[337],,,[],,,337,Raúl
+161,17,2025-12-21T16:30:00Z,2,Aston Villa,2,14,Man Utd,1,47,Rogers,"[47, 47]",450,Cunha,[450],,,[],,,47,Rogers
+162,17,2025-12-20T15:00:00Z,4,Bournemouth,1,3,Burnley,1,82,Semenyo,[82],680,Broja,[680],,,[],,,82,Semenyo
+163,17,2025-12-20T15:00:00Z,6,Brighton,0,17,Sunderland,0,,,[],,,[],,,[],,,139,Verbruggen
+164,17,2025-12-20T20:00:00Z,9,Everton,0,1,Arsenal,1,,,[],666,Gyökeres,[666],,,[],,,21,Rice
+165,17,2025-12-22T20:00:00Z,10,Fulham,1,16,Nott'm Forest,0,337,Raúl,[337],,,[],,,[],,,322,Tete
+166,17,2025-12-20T20:00:00Z,11,Leeds,4,8,Crystal Palace,1,"691, 354, 660","Calvert-Lewin, Ampadu, Stach","[691, 691, 354, 660]",276,Devenny,[276],,,[],,,691,Calvert-Lewin
+167,17,2025-12-20T15:00:00Z,13,Man City,3,19,West Ham,0,"430, 427","Haaland, Reijnders","[430, 430, 427]",,,[],,,[],,,430,Haaland
+168,17,2025-12-20T12:30:00Z,15,Newcastle,2,7,Chelsea,2,714,Woltemade,"[714, 714]","225, 249","James, João Pedro","[225, 249]",,,[],,,714,Woltemade
+169,17,2025-12-20T17:30:00Z,18,Spurs,1,12,Liverpool,2,597,Richarlison,[597],"499, 661","Isak, Ekitiké","[499, 661]",,,[],,,"382, 661","Wirtz, Ekitiké"
+170,17,2025-12-20T15:00:00Z,20,Wolves,0,5,Brentford,2,,,[],107,Lewis-Potter,"[107, 107]",,,[],,,107,Lewis-Potter
+151,16,2025-12-13T20:00:00Z,1,Arsenal,2,20,Wolves,1,,,[],720,Tolu,[720],"627, 634","Johnstone, Mosquera","[627, 634]","20, 20","Wolves, Wolves",16,Saka
+152,16,2025-12-14T16:30:00Z,5,Brentford,1,11,Leeds,1,124,Henderson,[124],691,Calvert-Lewin,[691],,,[],,,691,Calvert-Lewin
+153,16,2025-12-13T17:30:00Z,3,Burnley,2,10,Fulham,3,"197, 676","Sonne, Ugochukwu","[197, 676]","318, 325, 329","Bassey, Smith Rowe, Wilson","[318, 325, 329]",,,[],,,329,Wilson
+154,16,2025-12-13T15:00:00Z,7,Chelsea,2,9,Everton,0,"228, 235","Gusto, Palmer","[228, 235]",,,[],,,[],,,228,Gusto
+155,16,2025-12-14T14:00:00Z,8,Crystal Palace,0,13,Man City,3,,,[],"430, 414","Haaland, Foden","[430, 430, 414]",,,[],,,430,Haaland
+156,16,2025-12-13T15:00:00Z,12,Liverpool,2,6,Brighton,0,661,Ekitiké,"[661, 661]",,,[],,,[],,,661,Ekitiké
+157,16,2025-12-15T20:00:00Z,14,Man Utd,4,4,Bournemouth,4,"449, 450, 452, 457","B.Fernandes, Cunha, Amad, Casemiro","[449, 450, 452, 457]","82, 84, 97, 100","Semenyo, Tavernier, Evanilson, Kroupi.Jr","[82, 84, 97, 100]",,,[],,,449,B.Fernandes
+158,16,2025-12-14T14:00:00Z,16,Nott'm Forest,3,18,Spurs,0,"516, 521","Hudson-Odoi, Sangaré","[516, 516, 521]",,,[],,,[],,,516,Hudson-Odoi
+159,16,2025-12-14T14:00:00Z,17,Sunderland,1,15,Newcastle,0,,,[],,,[],714,Woltemade,[714],15,Newcastle,"541, 670","Reinildo, Roefs"
+160,16,2025-12-14T14:00:00Z,19,West Ham,2,2,Aston Villa,3,"624, 708","Bowen, M.Fernandes","[624, 708]",47,Rogers,"[47, 47]",606,Mavropanos,[606],19,West Ham,47,Rogers
+141,15,2025-12-06T12:30:00Z,2,Aston Villa,2,1,Arsenal,1,"36, 50","Cash, Buendía","[36, 50]",20,Trossard,[20],,,[],,,58,Kamara
+142,15,2025-12-06T15:00:00Z,4,Bournemouth,0,7,Chelsea,0,,,[],,,[],,,[],,,"220, 226","Sánchez, Chalobah"
+143,15,2025-12-07T14:00:00Z,6,Brighton,1,19,West Ham,1,158,Georginio,[158],624,Bowen,[624],,,[],,,624,Bowen
+144,15,2025-12-06T15:00:00Z,9,Everton,3,16,Nott'm Forest,0,"242, 310","Dewsbury-Hall, Barry","[242, 310]",,,[],505,Milenković,[505],16,Nott'm Forest,242,Dewsbury-Hall
+145,15,2025-12-07T16:30:00Z,10,Fulham,1,8,Crystal Palace,2,329,Wilson,[329],"260, 284","Guéhi, Nketiah","[260, 284]",,,[],,,284,Nketiah
+146,15,2025-12-06T17:30:00Z,11,Leeds,3,12,Liverpool,3,"358, 660, 691","Tanaka, Stach, Calvert-Lewin","[358, 660, 691]","661, 387","Ekitiké, Szoboszlai","[661, 661, 387]",,,[],,,661,Ekitiké
+147,15,2025-12-06T15:00:00Z,13,Man City,3,17,Sunderland,0,"403, 408, 414","Gvardiol, Rúben, Foden","[403, 408, 414]",,,[],,,[],,,417,Cherki
+148,15,2025-12-06T15:00:00Z,15,Newcastle,2,3,Burnley,1,"485, 488","Gordon, Bruno G.","[485, 488]",215,Flemming,[215],,,[],,,488,Bruno G.
+149,15,2025-12-06T15:00:00Z,18,Spurs,2,5,Brentford,0,"597, 717","Richarlison, Xavi","[597, 717]",,,[],,,[],,,717,Xavi
+150,15,2025-12-08T20:00:00Z,20,Wolves,1,14,Man Utd,4,644,Bellegarde,[644],"449, 119, 455","B.Fernandes, Mbeumo, Mount","[449, 449, 119, 455]",,,[],,,449,B.Fernandes
+131,14,2025-12-03T19:30:00Z,1,Arsenal,2,5,Brentford,0,"16, 22","Saka, Merino","[16, 22]",,,[],,,[],,,11,White
+132,14,2025-12-02T19:30:00Z,4,Bournemouth,0,9,Everton,1,,,[],419,Grealish,[419],,,[],,,419,Grealish
+133,14,2025-12-03T19:30:00Z,6,Brighton,3,2,Aston Villa,4,151,Van Hecke,"[151, 151]","64, 53, 59","Watkins, Malen, Onana","[64, 64, 53, 59]",41,Pau,[41],2,Aston Villa,64,Watkins
+134,14,2025-12-03T19:30:00Z,3,Burnley,0,8,Crystal Palace,1,,,[],256,Muñoz,[256],,,[],,,260,Guéhi
+135,14,2025-12-02T19:30:00Z,10,Fulham,4,13,Man City,5,"727, 324, 325","Chukwueze, Iwobi, Smith Rowe","[727, 727, 324, 325]","414, 427, 430","Foden, Reijnders, Haaland","[414, 414, 427, 430]",330,Berge,[330],10,Fulham,414,Foden
+136,14,2025-12-03T20:15:00Z,11,Leeds,3,7,Chelsea,1,"344, 358, 691","Bijol, Tanaka, Calvert-Lewin","[344, 358, 691]",236,Neto,[236],,,[],,,691,Calvert-Lewin
+137,14,2025-12-03T20:15:00Z,12,Liverpool,1,17,Sunderland,1,,,[],553,Talbi,[553],694,Mukiele,[694],17,Sunderland,553,Talbi
+138,14,2025-12-04T20:00:00Z,14,Man Utd,1,19,West Ham,1,440,Dalot,[440],718,S.Magassa,[718],,,[],,,440,Dalot
+139,14,2025-12-02T20:15:00Z,15,Newcastle,2,18,Spurs,2,"485, 488","Gordon, Bruno G.","[485, 488]",569,Romero,"[569, 569]",,,[],,,569,Romero
+140,14,2025-12-03T19:30:00Z,20,Wolves,0,16,Nott'm Forest,1,,,[],526,Igor Jesus,[526],,,[],,,526,Igor Jesus
+121,13,2025-11-30T14:05:00Z,2,Aston Villa,1,20,Wolves,0,58,Kamara,[58],,,[],,,[],,,58,Kamara
+122,13,2025-11-29T15:00:00Z,5,Brentford,3,3,Burnley,1,"136, 83","Thiago, O.Dango","[136, 136, 83]",215,Flemming,[215],,,[],,,136,Thiago
+123,13,2025-11-30T16:30:00Z,7,Chelsea,1,1,Arsenal,1,226,Chalobah,[226],22,Merino,[22],,,[],,,225,James
+124,13,2025-11-30T12:00:00Z,8,Crystal Palace,1,14,Man Utd,2,283,Mateta,[283],"455, 466","Mount, Zirkzee","[455, 466]",,,[],,,"449, 466","B.Fernandes, Zirkzee"
+125,13,2025-11-29T17:30:00Z,9,Everton,1,15,Newcastle,4,242,Dewsbury-Hall,[242],"684, 497, 714","Thiaw, L.Miley, Woltemade","[684, 684, 497, 714]",,,[],,,497,L.Miley
+126,13,2025-11-29T15:00:00Z,13,Man City,3,11,Leeds,2,"414, 403","Foden, Gvardiol","[414, 414, 403]","365, 691","Nmecha, Calvert-Lewin","[365, 691]",,,[],,,414,Foden
+127,13,2025-11-30T14:05:00Z,16,Nott'm Forest,0,6,Brighton,2,,,[],"145, 180","De Cuyper, Tzimas","[145, 180]",,,[],,,145,De Cuyper
+128,13,2025-11-29T15:00:00Z,17,Sunderland,3,4,Bournemouth,2,"547, 730, 735","E.Le Fée, Brobbey, Traoré","[547, 730, 735]","85, 697","Adams, Adli","[85, 697]",,,[],,,547,E.Le Fée
+129,13,2025-11-29T20:00:00Z,18,Spurs,1,10,Fulham,2,582,Kudus,[582],"322, 329","Tete, Wilson","[322, 329]",,,[],,,329,Wilson
+130,13,2025-11-30T14:05:00Z,19,West Ham,0,12,Liverpool,2,,,[],"384, 499","Gakpo, Isak","[384, 499]",,,[],,,384,Gakpo
+111,12,2025-11-23T16:30:00Z,1,Arsenal,4,18,Spurs,1,"266, 20","Eze, Trossard","[266, 266, 266, 20]",597,Richarlison,[597],,,[],,,266,Eze
+112,12,2025-11-22T15:00:00Z,4,Bournemouth,2,19,West Ham,2,"84, 98","Tavernier, Enes Ünal","[84, 98]",671,Wilson,"[671, 671]",,,[],,,671,Wilson
+113,12,2025-11-22T15:00:00Z,6,Brighton,2,5,Brentford,1,"163, 178","Hinshelwood, Welbeck","[163, 178]",136,Thiago,[136],,,[],,,160,Minteh
+114,12,2025-11-22T12:30:00Z,3,Burnley,0,7,Chelsea,2,,,[],"236, 237","Neto, Enzo","[236, 237]",,,[],,,237,Enzo
+115,12,2025-11-22T15:00:00Z,10,Fulham,1,17,Sunderland,0,337,Raúl,[337],,,[],,,[],,,318,Bassey
+116,12,2025-11-23T14:00:00Z,11,Leeds,1,2,Aston Villa,2,365,Nmecha,[365],47,Rogers,"[47, 47]",,,[],,,47,Rogers
+117,12,2025-11-22T15:00:00Z,12,Liverpool,0,16,Nott'm Forest,3,,,[],"506, 515, 716","Murillo, Gibbs-White, Savona","[506, 515, 716]",,,[],,,506,Murillo
+118,12,2025-11-24T20:00:00Z,14,Man Utd,0,9,Everton,1,,,[],242,Dewsbury-Hall,[242],,,[],,,242,Dewsbury-Hall
+119,12,2025-11-22T17:30:00Z,15,Newcastle,2,13,Man City,1,487,Barnes,"[487, 487]",408,Rúben,[408],,,[],,,487,Barnes
+120,12,2025-11-22T15:00:00Z,20,Wolves,0,8,Crystal Palace,2,,,[],"256, 712","Muñoz, Yeremy","[256, 712]",,,[],,,256,Muñoz
+101,11,2025-11-09T14:00:00Z,2,Aston Villa,4,4,Bournemouth,0,"50, 53, 55, 59","Buendía, Malen, Barkley, Onana","[50, 53, 55, 59]",,,[],,,[],,,50,Buendía
+102,11,2025-11-09T14:00:00Z,5,Brentford,3,15,Newcastle,1,"136, 120","Thiago, Schade","[136, 136, 120]",487,Barnes,[487],,,[],,,136,Thiago
+103,11,2025-11-08T20:00:00Z,7,Chelsea,3,20,Wolves,0,"228, 236, 249","Gusto, Neto, João Pedro","[228, 236, 249]",,,[],,,[],,,228,Gusto
+104,11,2025-11-09T14:00:00Z,8,Crystal Palace,0,6,Brighton,0,,,[],,,[],,,[],,,258,Mitchell
+105,11,2025-11-08T15:00:00Z,9,Everton,2,10,Fulham,0,"295, 302","Keane, Gana","[295, 302]",,,[],,,[],,,295,Keane
+106,11,2025-11-09T16:30:00Z,13,Man City,3,12,Liverpool,0,"418, 423, 430","Doku, N.Gonzalez, Haaland","[418, 423, 430]",,,[],,,[],,,418,Doku
+107,11,2025-11-09T14:00:00Z,16,Nott'm Forest,3,11,Leeds,1,"515, 517, 521","Gibbs-White, Anderson, Sangaré","[515, 517, 521]",365,Nmecha,[365],,,[],,,515,Gibbs-White
+108,11,2025-11-08T17:30:00Z,17,Sunderland,2,1,Arsenal,2,"531, 730","Ballard, Brobbey","[531, 730]","16, 20","Saka, Trossard","[16, 20]",,,[],,,16,Saka
+109,11,2025-11-08T12:30:00Z,18,Spurs,2,14,Man Utd,2,"584, 597","Tel, Richarlison","[584, 597]","119, 436","Mbeumo, De Ligt","[119, 436]",,,[],,,"588, 452","Odobert, Amad"
+110,11,2025-11-08T15:00:00Z,19,West Ham,3,3,Burnley,2,"613, 659, 671","Souček, Walker-Peters, Wilson","[613, 659, 671]","205, 215","Cullen, Flemming","[205, 215]",,,[],,,"613, 205","Souček, Cullen"
+91,10,2025-11-01T15:00:00Z,6,Brighton,3,11,Leeds,0,"169, 178","Gomez, Welbeck","[169, 169, 178]",,,[],,,[],,,169,Gomez
+92,10,2025-11-01T15:00:00Z,3,Burnley,0,1,Arsenal,2,,,[],"21, 666","Rice, Gyökeres","[21, 666]",,,[],,,21,Rice
+93,10,2025-11-01T15:00:00Z,8,Crystal Palace,2,5,Brentford,0,283,Mateta,[283],,,[],106,Collins,[106],5,Brentford,283,Mateta
+94,10,2025-11-01T15:00:00Z,10,Fulham,3,20,Wolves,0,"328, 329","Sessegnon, Wilson","[328, 329]",,,[],634,Mosquera,[634],20,Wolves,328,Sessegnon
+95,10,2025-11-01T20:00:00Z,12,Liverpool,2,2,Aston Villa,0,"381, 390","M.Salah, Gravenberch","[381, 390]",,,[],,,[],,,390,Gravenberch
+96,10,2025-11-02T16:30:00Z,13,Man City,3,4,Bournemouth,1,"430, 411","Haaland, O'Reilly","[430, 430, 411]",85,Adams,[85],,,[],,,430,Haaland
+97,10,2025-11-01T15:00:00Z,16,Nott'm Forest,2,14,Man Utd,2,"515, 716","Gibbs-White, Savona","[515, 716]","452, 457","Amad, Casemiro","[452, 457]",,,[],,,457,Casemiro
+98,10,2025-11-03T20:00:00Z,17,Sunderland,1,9,Everton,1,668,Xhaka,[668],299,Ndiaye,[299],,,[],,,668,Xhaka
+99,10,2025-11-01T17:30:00Z,18,Spurs,0,7,Chelsea,1,,,[],249,João Pedro,[249],,,[],,,249,João Pedro
+100,10,2025-11-02T14:00:00Z,19,West Ham,3,15,Newcastle,1,"612, 613","L.Paquetá, Souček","[612, 613]",489,J.Murphy,[489],475,Botman,[475],15,Newcastle,612,L.Paquetá
+81,9,2025-10-26T14:00:00Z,1,Arsenal,1,8,Crystal Palace,0,266,Eze,[266],,,[],,,[],,,"5, 266","Gabriel, Eze"
+82,9,2025-10-26T14:00:00Z,2,Aston Villa,1,13,Man City,0,36,Cash,[36],,,[],,,[],,,36,Cash
+83,9,2025-10-26T14:00:00Z,4,Bournemouth,2,16,Nott'm Forest,0,"84, 100","Tavernier, Kroupi.Jr","[84, 100]",,,[],,,[],,,84,Tavernier
+84,9,2025-10-25T19:00:00Z,5,Brentford,3,12,Liverpool,2,"83, 120, 136","O.Dango, Schade, Thiago","[83, 120, 136]","371, 381","Kerkez, M.Salah","[371, 381]",,,[],,,387,Szoboszlai
+85,9,2025-10-25T14:00:00Z,7,Chelsea,1,17,Sunderland,2,453,Garnacho,[453],"553, 560","Talbi, Isidor","[553, 560]",,,[],,,236,Neto
+86,9,2025-10-26T16:30:00Z,9,Everton,0,18,Spurs,3,,,[],"575, 593","Van de Ven, P.M.Sarr","[575, 575, 593]",,,[],,,575,Van de Ven
+87,9,2025-10-24T19:00:00Z,11,Leeds,2,19,West Ham,1,"348, 350","Rodon, Aaronson","[348, 350]",708,M.Fernandes,[708],,,[],,,"348, 350","Rodon, Aaronson"
+88,9,2025-10-25T16:30:00Z,14,Man Utd,4,6,Brighton,2,"119, 450, 457","Mbeumo, Cunha, Casemiro","[119, 119, 450, 457]","178, 181","Welbeck, Kostoulas","[178, 181]",,,[],,,119,Mbeumo
+89,9,2025-10-25T14:00:00Z,15,Newcastle,2,10,Fulham,1,"488, 489","Bruno G., J.Murphy","[488, 489]",332,Lukić,[332],,,[],,,488,Bruno G.
+90,9,2025-10-26T14:00:00Z,20,Wolves,2,3,Burnley,3,"648, 654","Munetsi, Strand Larsen","[648, 654]","215, 217","Flemming, Foster","[215, 215, 217]",,,[],,,215,Flemming
+71,8,2025-10-18T14:00:00Z,6,Brighton,2,15,Newcastle,1,178,Welbeck,"[178, 178]",714,Woltemade,[714],,,[],,,178,Welbeck
+72,8,2025-10-18T14:00:00Z,3,Burnley,2,11,Leeds,0,"210, 676","Tchaouna, Ugochukwu","[210, 676]",,,[],,,[],,,187,Walker
+73,8,2025-10-18T14:00:00Z,8,Crystal Palace,3,4,Bournemouth,3,283,Mateta,"[283, 283, 283]","100, 87","Kroupi.Jr, Christie","[100, 100, 87]",,,[],,,283,Mateta
+74,8,2025-10-18T16:30:00Z,10,Fulham,0,1,Arsenal,1,,,[],20,Trossard,[20],,,[],,,5,Gabriel
+75,8,2025-10-19T15:30:00Z,12,Liverpool,1,14,Man Utd,2,384,Gakpo,[384],"119, 442","Mbeumo, Maguire","[119, 442]",,,[],,,449,B.Fernandes
+76,8,2025-10-18T14:00:00Z,13,Man City,2,9,Everton,0,430,Haaland,"[430, 430]",,,[],,,[],,,430,Haaland
+77,8,2025-10-18T11:30:00Z,16,Nott'm Forest,0,7,Chelsea,3,,,[],"225, 233, 236","James, Acheampong, Neto","[225, 233, 236]",,,[],,,225,James
+78,8,2025-10-18T14:00:00Z,17,Sunderland,2,20,Wolves,0,694,Mukiele,[694],,,[],709,Krejčí,[709],20,Wolves,694,Mukiele
+79,8,2025-10-19T13:00:00Z,18,Spurs,1,2,Aston Villa,2,585,Bentancur,[585],"47, 50","Rogers, Buendía","[47, 50]",,,[],,,585,Bentancur
+80,8,2025-10-20T19:00:00Z,19,West Ham,0,5,Brentford,2,,,[],"126, 136","Jensen, Thiago","[126, 136]",,,[],,,110,Kayode
+61,7,2025-10-04T14:00:00Z,1,Arsenal,2,19,West Ham,0,"16, 21","Saka, Rice","[16, 21]",,,[],,,[],,,21,Rice
+62,7,2025-10-05T13:00:00Z,2,Aston Villa,2,3,Burnley,1,53,Malen,"[53, 53]",676,Ugochukwu,[676],,,[],,,53,Malen
+63,7,2025-10-03T19:00:00Z,4,Bournemouth,3,10,Fulham,1,"82, 81","Semenyo, Kluivert","[82, 82, 81]",328,Sessegnon,[328],,,[],,,82,Semenyo
+64,7,2025-10-05T15:30:00Z,5,Brentford,0,13,Man City,1,,,[],430,Haaland,[430],,,[],,,403,Gvardiol
+65,7,2025-10-04T16:30:00Z,7,Chelsea,2,12,Liverpool,1,"238, 241","Estêvão, Caicedo","[238, 241]",384,Gakpo,[384],,,[],,,241,Caicedo
+66,7,2025-10-05T13:00:00Z,9,Everton,2,8,Crystal Palace,1,"299, 419","Ndiaye, Grealish","[299, 419]",256,Muñoz,[256],,,[],,,419,Grealish
+67,7,2025-10-04T11:30:00Z,11,Leeds,1,18,Spurs,2,698,Okafor,[698],"582, 584","Kudus, Tel","[582, 584]",,,[],,,582,Kudus
+68,7,2025-10-04T14:00:00Z,14,Man Utd,2,17,Sunderland,0,"455, 681","Mount, Šeško","[455, 681]",,,[],,,[],,,681,Šeško
+69,7,2025-10-05T13:00:00Z,15,Newcastle,2,16,Nott'm Forest,0,"488, 714","Bruno G., Woltemade","[488, 714]",,,[],,,[],,,488,Bruno G.
+70,7,2025-10-05T13:00:00Z,20,Wolves,1,6,Brighton,1,,,[],151,Van Hecke,[151],139,Verbruggen,[139],6,Brighton,151,Van Hecke
+51,6,2025-09-28T13:00:00Z,2,Aston Villa,3,10,Fulham,1,"50, 54, 64","Buendía, McGinn, Watkins","[50, 54, 64]",337,Raúl,[337],,,[],,,50,Buendía
+52,6,2025-09-27T11:30:00Z,5,Brentford,3,14,Man Utd,1,"136, 126","Thiago, Jensen","[136, 136, 126]",681,Šeško,[681],,,[],,,136,Thiago
+53,6,2025-09-27T14:00:00Z,7,Chelsea,1,6,Brighton,3,237,Enzo,[237],"178, 145","Welbeck, De Cuyper","[178, 178, 145]",,,[],,,178,Welbeck
+54,6,2025-09-27T14:00:00Z,8,Crystal Palace,2,12,Liverpool,1,"267, 284","Sarr, Nketiah","[267, 284]",385,Chiesa,[385],,,[],,,"267, 390","Sarr, Gravenberch"
+55,6,2025-09-29T19:00:00Z,9,Everton,1,19,West Ham,1,295,Keane,[295],624,Bowen,[624],,,[],,,624,Bowen
+56,6,2025-09-27T14:00:00Z,11,Leeds,2,4,Bournemouth,2,"348, 493","Rodon, Longstaff","[348, 493]","82, 100","Semenyo, Kroupi.Jr","[82, 100]",,,[],,,493,Longstaff
+57,6,2025-09-27T14:00:00Z,13,Man City,5,3,Burnley,1,"430, 407","Haaland, Matheus N.","[430, 430, 407]",200,Anthony,[200],191,Estève,"[191, 191]",3,Burnley,430,Haaland
+58,6,2025-09-28T15:30:00Z,15,Newcastle,1,1,Arsenal,2,714,Woltemade,[714],"5, 22","Gabriel, Merino","[5, 22]",,,[],,,5,Gabriel
+59,6,2025-09-27T16:30:00Z,16,Nott'm Forest,0,17,Sunderland,1,,,[],683,Alderete,[683],,,[],,,683,Alderete
+60,6,2025-09-27T19:00:00Z,18,Spurs,1,20,Wolves,1,673,J.Palhinha,[673],636,S.Bueno,[636],,,[],,,673,J.Palhinha
+41,5,2025-09-21T15:30:00Z,1,Arsenal,1,13,Man City,1,19,Martinelli,[19],430,Haaland,[430],,,[],,,430,Haaland
+42,5,2025-09-21T13:00:00Z,4,Bournemouth,0,15,Newcastle,0,,,[],,,[],,,[],,,74,Truffert
+43,5,2025-09-20T14:00:00Z,6,Brighton,2,18,Spurs,2,"160, 166","Minteh, Ayari","[160, 166]",597,Richarlison,[597],151,Van Hecke,[151],6,Brighton,597,Richarlison
+44,5,2025-09-20T14:00:00Z,3,Burnley,1,16,Nott'm Forest,1,200,Anthony,[200],508,N.Williams,[508],,,[],,,200,Anthony
+45,5,2025-09-20T19:00:00Z,10,Fulham,3,5,Brentford,1,"324, 329","Iwobi, Wilson","[324, 329]",121,Damsgaard,[121],111,Pinnock,[111],5,Brentford,324,Iwobi
+46,5,2025-09-20T11:30:00Z,12,Liverpool,2,9,Everton,1,"390, 661","Gravenberch, Ekitiké","[390, 661]",302,Gana,[302],,,[],,,390,Gravenberch
+47,5,2025-09-20T16:30:00Z,14,Man Utd,2,7,Chelsea,1,"449, 457","B.Fernandes, Casemiro","[449, 457]",226,Chalobah,[226],,,[],,,449,B.Fernandes
+48,5,2025-09-21T13:00:00Z,17,Sunderland,1,2,Aston Villa,1,560,Isidor,[560],36,Cash,[36],,,[],,,560,Isidor
+49,5,2025-09-20T14:00:00Z,19,West Ham,1,8,Crystal Palace,2,624,Bowen,[624],"258, 283","Mitchell, Mateta","[258, 283]",,,[],,,624,Bowen
+50,5,2025-09-20T14:00:00Z,20,Wolves,1,11,Leeds,3,709,Krejčí,[709],"660, 691, 698","Stach, Calvert-Lewin, Okafor","[660, 691, 698]",,,[],,,660,Stach
+31,4,2025-09-13T11:30:00Z,1,Arsenal,3,16,Nott'm Forest,0,"26, 666","Zubimendi, Gyökeres","[26, 26, 666]",,,[],,,[],,,26,Zubimendi
+32,4,2025-09-13T14:00:00Z,4,Bournemouth,2,6,Brighton,1,"82, 90","Semenyo, Scott","[82, 90]",157,Mitoma,[157],,,[],,,82,Semenyo
+33,4,2025-09-13T19:00:00Z,5,Brentford,2,7,Chelsea,2,"120, 123","Schade, Carvalho","[120, 123]","235, 241","Palmer, Caicedo","[235, 241]",,,[],,,241,Caicedo
+34,4,2025-09-14T13:00:00Z,3,Burnley,0,12,Liverpool,1,,,[],381,M.Salah,[381],,,[],,,374,Konaté
+35,4,2025-09-13T14:00:00Z,8,Crystal Palace,0,17,Sunderland,0,,,[],,,[],,,[],,,670,Roefs
+36,4,2025-09-13T14:00:00Z,9,Everton,0,2,Aston Villa,0,,,[],,,[],,,[],,,44,Bogarde
+37,4,2025-09-13T14:00:00Z,10,Fulham,1,11,Leeds,0,,,[],,,[],347,Gudmundsson,[347],11,Leeds,318,Bassey
+38,4,2025-09-14T15:30:00Z,13,Man City,3,14,Man Utd,0,"430, 414","Haaland, Foden","[430, 430, 414]",,,[],,,[],,,430,Haaland
+39,4,2025-09-13T14:00:00Z,15,Newcastle,1,20,Wolves,0,714,Woltemade,[714],,,[],,,[],,,714,Woltemade
+40,4,2025-09-13T16:30:00Z,19,West Ham,0,18,Spurs,3,,,[],"575, 586, 593","Van de Ven, Bergvall, P.M.Sarr","[575, 586, 593]",,,[],,,569,Romero
+21,3,2025-08-31T18:00:00Z,2,Aston Villa,0,8,Crystal Palace,3,,,[],"260, 267, 283","Guéhi, Sarr, Mateta","[260, 267, 283]",,,[],,,260,Guéhi
+22,3,2025-08-31T13:00:00Z,6,Brighton,2,13,Man City,1,"162, 170","Gruda, Milner","[162, 170]",430,Haaland,[430],,,[],,,430,Haaland
+23,3,2025-08-30T11:30:00Z,7,Chelsea,2,10,Fulham,0,"237, 249","Enzo, João Pedro","[237, 249]",,,[],,,[],,,249,João Pedro
+24,3,2025-08-30T16:30:00Z,11,Leeds,0,15,Newcastle,0,,,[],,,[],,,[],,,347,Gudmundsson
+25,3,2025-08-31T15:30:00Z,12,Liverpool,1,1,Arsenal,0,387,Szoboszlai,[387],,,[],,,[],,,387,Szoboszlai
+26,3,2025-08-30T14:00:00Z,14,Man Utd,3,3,Burnley,2,"119, 449","Mbeumo, B.Fernandes","[119, 449]","200, 217","Anthony, Foster","[200, 217]",205,Cullen,[205],3,Burnley,119,Mbeumo
+27,3,2025-08-31T13:00:00Z,16,Nott'm Forest,0,19,West Ham,3,,,[],"612, 624, 671","L.Paquetá, Bowen, Wilson","[612, 624, 671]",,,[],,,624,Bowen
+28,3,2025-08-30T14:00:00Z,17,Sunderland,2,5,Brentford,1,"547, 560","E.Le Fée, Isidor","[547, 560]",136,Thiago,[136],,,[],,,560,Isidor
+29,3,2025-08-30T14:00:00Z,18,Spurs,0,4,Bournemouth,1,,,[],97,Evanilson,[97],,,[],,,72,Senesi
+30,3,2025-08-30T14:00:00Z,20,Wolves,2,9,Everton,3,"635, 642","R.Gomes, Hee Chan","[635, 642]","242, 299, 311","Dewsbury-Hall, Ndiaye, Beto","[242, 299, 311]",,,[],,,242,Dewsbury-Hall
+11,2,2025-08-23T16:30:00Z,1,Arsenal,5,11,Leeds,0,"8, 666, 16","J.Timber, Gyökeres, Saka","[8, 8, 666, 666, 16]",,,[],,,[],,,8,J.Timber
+12,2,2025-08-23T14:00:00Z,4,Bournemouth,1,20,Wolves,0,84,Tavernier,[84],,,[],,,[],,,84,Tavernier
+13,2,2025-08-23T14:00:00Z,5,Brentford,1,2,Aston Villa,0,83,O.Dango,[83],,,[],,,[],,,83,O.Dango
+14,2,2025-08-23T14:00:00Z,3,Burnley,2,17,Sunderland,0,"200, 205","Anthony, Cullen","[200, 205]",,,[],,,[],,,205,Cullen
+15,2,2025-08-24T13:00:00Z,8,Crystal Palace,1,16,Nott'm Forest,1,267,Sarr,[267],516,Hudson-Odoi,[516],,,[],,,516,Hudson-Odoi
+16,2,2025-08-24T13:00:00Z,9,Everton,2,6,Brighton,0,"299, 303","Ndiaye, Garner","[299, 303]",,,[],,,[],,,287,Pickford
+17,2,2025-08-24T15:30:00Z,10,Fulham,1,14,Man Utd,1,325,Smith Rowe,[325],,,[],338,Muniz,[338],10,Fulham,436,De Ligt
+18,2,2025-08-23T11:30:00Z,13,Man City,0,18,Spurs,2,,,[],"580, 673","Johnson, J.Palhinha","[580, 673]",,,[],,,673,J.Palhinha
+19,2,2025-08-25T19:00:00Z,15,Newcastle,2,12,Liverpool,3,"488, 500","Bruno G., Osula","[488, 500]","390, 661, 686","Gravenberch, Ekitiké, Ngumoha","[390, 661, 686]",,,[],,,661,Ekitiké
+20,2,2025-08-22T19:00:00Z,19,West Ham,1,7,Chelsea,5,612,L.Paquetá,[612],"226, 236, 237, 241, 249","Chalobah, Neto, Enzo, Caicedo, João Pedro","[226, 236, 237, 241, 249]",,,[],,,249,João Pedro
+1,1,2025-08-15T19:00:00Z,12,Liverpool,4,4,Bournemouth,2,"381, 384, 385, 661","M.Salah, Gakpo, Chiesa, Ekitiké","[381, 384, 385, 661]",82,Semenyo,"[82, 82]",,,[],,,82,Semenyo
+2,1,2025-08-16T11:30:00Z,2,Aston Villa,0,15,Newcastle,0,,,[],,,[],,,[],,,477,Livramento
+3,1,2025-08-16T14:00:00Z,6,Brighton,1,10,Fulham,1,164,O'Riley,[164],338,Muniz,[338],,,[],,,338,Muniz
+4,1,2025-08-17T13:00:00Z,16,Nott'm Forest,3,5,Brentford,1,"525, 669","Wood, Ndoye","[525, 525, 669]",136,Thiago,[136],,,[],,,525,Wood
+5,1,2025-08-16T14:00:00Z,17,Sunderland,3,19,West Ham,0,"531, 560, 561","Ballard, Isidor, Mayenda","[531, 560, 561]",,,[],,,[],,,531,Ballard
+6,1,2025-08-16T14:00:00Z,18,Spurs,3,3,Burnley,0,"597, 580","Richarlison, Johnson","[597, 597, 580]",,,[],,,[],,,597,Richarlison
+7,1,2025-08-16T16:30:00Z,20,Wolves,0,13,Man City,4,,,[],"430, 417, 427","Haaland, Cherki, Reijnders","[430, 430, 417, 427]",,,[],,,430,Haaland
+8,1,2025-08-17T13:00:00Z,7,Chelsea,0,8,Crystal Palace,0,,,[],,,[],,,[],,,233,Acheampong
+9,1,2025-08-17T15:30:00Z,14,Man Utd,0,1,Arsenal,1,,,[],7,Calafiori,[7],,,[],,,1,Raya
+10,1,2025-08-18T19:00:00Z,11,Leeds,1,9,Everton,0,365,Nmecha,[365],,,[],,,[],,,347,Gudmundsson

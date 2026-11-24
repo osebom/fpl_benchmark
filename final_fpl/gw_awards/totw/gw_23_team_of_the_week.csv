@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+23,32,Martinez,2,Aston Villa,Goalkeeper,10,90,0,0,1,4,3,38
+23,50,Buendía,2,Aston Villa,Midfielder,11,74,1,0,1,0,1,34
+23,166,Ayari,6,Brighton,Midfielder,11,90,1,0,0,0,2,34
+23,238,Estêvão,7,Chelsea,Midfielder,13,73,1,1,1,0,2,32
+23,249,João Pedro,7,Chelsea,Forward,12,84,1,1,1,0,3,47
+23,329,Wilson,10,Fulham,Midfielder,10,90,1,0,0,0,3,36
+23,387,Szoboszlai,12,Liverpool,Midfielder,13,90,1,1,0,0,3,46
+23,407,Matheus N.,13,Man City,Defender,11,90,0,1,1,0,3,36
+23,507,Aina,16,Nott'm Forest,Defender,11,90,0,1,1,0,2,32
+23,569,Romero,18,Spurs,Defender,11,90,1,0,0,0,2,29
+23,624,Bowen,19,West Ham,Forward,12,90,1,1,0,0,3,41

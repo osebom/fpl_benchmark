@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+29,5,Gabriel,1,Arsenal,Defender,11,90,0,0,1,0,3,40
+29,8,J.Timber,1,Arsenal,Defender,13,90,0,1,1,0,2,33
+29,72,Senesi,4,Bournemouth,Defender,11,90,0,0,1,0,3,31
+29,249,João Pedro,7,Chelsea,Forward,19,84,3,1,0,0,3,92
+29,267,Sarr,8,Crystal Palace,Midfielder,15,90,2,0,0,0,3,42
+29,273,Wharton,8,Crystal Palace,Midfielder,10,80,0,2,0,0,2,40
+29,291,Tarkowski,9,Everton,Defender,15,90,1,0,1,0,3,42
+29,517,Anderson,16,Nott'm Forest,Midfielder,12,90,1,0,0,0,3,46
+29,615,Summerville,19,West Ham,Midfielder,11,90,1,0,1,0,3,40
+29,643,André,20,Wolves,Midfielder,12,90,1,0,0,0,3,46
+29,812,Ellborg,17,Sunderland,Goalkeeper,10,90,0,0,1,4,3,32

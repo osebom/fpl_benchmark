@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+22,220,Sánchez,7,Chelsea,Goalkeeper,11,90,0,0,1,6,3,36
+22,382,Wirtz,12,Liverpool,Midfielder,10,90,1,0,0,0,3,33
+22,441,Dorgu,14,Man Utd,Defender,15,90,1,0,1,0,3,44
+22,449,B.Fernandes,14,Man Utd,Midfielder,10,90,0,1,1,0,2,38
+22,473,Hall,15,Newcastle,Defender,9,90,0,0,1,0,3,30
+22,615,Summerville,19,West Ham,Midfielder,10,90,1,0,0,0,3,31
+22,684,Thiaw,15,Newcastle,Defender,9,90,0,0,1,0,3,30
+22,706,Justin,11,Leeds,Defender,9,90,0,0,1,0,3,34
+22,708,M.Fernandes,19,West Ham,Midfielder,9,90,0,1,0,0,2,30
+22,712,Yeremy,8,Crystal Palace,Midfielder,9,90,1,0,0,0,2,33
+22,730,Brobbey,17,Sunderland,Forward,9,83,1,0,0,0,3,42

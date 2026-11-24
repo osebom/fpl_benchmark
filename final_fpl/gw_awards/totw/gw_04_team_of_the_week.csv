@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+4,26,Zubimendi,1,Arsenal,Midfielder,16,90,2,0,1,0,3,52
+4,82,Semenyo,4,Bournemouth,Midfielder,13,90,1,1,0,0,3,39
+4,241,Caicedo,7,Chelsea,Midfielder,12,90,1,0,0,0,3,40
+4,317,Andersen,10,Fulham,Defender,10,90,0,0,1,0,2,32
+4,414,Foden,13,Man City,Midfielder,12,90,1,0,1,0,2,37
+4,430,Haaland,13,Man City,Forward,13,86,2,0,1,0,3,63
+4,569,Romero,18,Spurs,Defender,12,90,0,1,1,0,3,44
+4,575,Van de Ven,18,Spurs,Defender,14,79,1,0,1,0,2,43
+4,586,Bergvall,18,Spurs,Midfielder,11,79,1,1,1,0,0,38
+4,670,Roefs,17,Sunderland,Goalkeeper,10,90,0,0,1,6,3,39
+4,694,Mukiele,17,Sunderland,Defender,10,90,0,0,1,0,2,32

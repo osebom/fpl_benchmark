@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+17,21,Rice,1,Arsenal,Midfielder,11,90,0,1,1,0,3,32
+17,47,Rogers,2,Aston Villa,Midfielder,15,90,2,0,0,0,3,49
+17,101,Kelleher,5,Brentford,Goalkeeper,13,90,0,0,1,2,2,34
+17,107,Lewis-Potter,5,Brentford,Defender,21,90,2,0,1,0,3,54
+17,354,Ampadu,11,Leeds,Midfielder,12,86,1,0,1,0,2,40
+17,430,Haaland,13,Man City,Forward,16,90,2,1,1,0,3,66
+17,485,Gordon,15,Newcastle,Midfielder,10,71,0,2,0,0,2,38
+17,532,Hume,17,Sunderland,Defender,10,90,0,0,1,0,2,32
+17,691,Calvert-Lewin,11,Leeds,Forward,13,86,2,0,1,0,3,60
+17,714,Woltemade,15,Newcastle,Forward,13,72,2,0,0,0,3,50
+17,725,Hincapie,1,Arsenal,Defender,10,90,0,0,1,0,2,31

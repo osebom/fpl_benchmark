@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+1,1,Raya,1,Arsenal,Goalkeeper,10,90,0,0,1,7,3,38
+1,7,Calafiori,1,Arsenal,Defender,13,71,1,0,1,0,2,33
+1,82,Semenyo,4,Bournemouth,Midfielder,15,90,2,0,0,0,3,42
+1,164,O'Riley,6,Brighton,Midfielder,10,87,1,0,1,0,2,24
+1,410,Lewis,13,Man City,Defender,11,65,0,1,1,0,2,41
+1,427,Reijnders,13,Man City,Midfielder,10,90,1,1,1,0,0,31
+1,430,Haaland,13,Man City,Forward,13,72,2,0,1,0,3,49
+1,525,Wood,16,Nott'm Forest,Forward,13,78,2,0,0,0,3,58
+1,531,Ballard,17,Sunderland,Defender,17,90,1,0,1,0,3,53
+1,582,Kudus,18,Spurs,Midfielder,10,84,0,2,1,0,1,35
+1,597,Richarlison,18,Spurs,Forward,13,71,2,0,1,0,3,61

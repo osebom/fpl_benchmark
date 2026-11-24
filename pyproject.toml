@@ -1,0 +1,40 @@
+[project]
+name = "fpl-sim"
+version = "0.1.0"
+description = "Time-aware Fantasy Premier League agent simulation harness"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "cohere>=5.16",
+    "supabase>=2.9",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+    "pydantic>=2.9",
+    "mlflow[databricks]>=3.1",
+    "mcp>=1.2,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "jupyter>=1.1",
+    "ipykernel>=6.29",
+]
+
+[project.scripts]
+fpl-mcp = "fpl_sim.mcp.server:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["fpl_sim*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]

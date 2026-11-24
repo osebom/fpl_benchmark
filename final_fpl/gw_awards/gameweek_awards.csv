@@ -1,0 +1,39 @@
+gameweek,deadline_utc,source_snapshot_utc,most_transferred_in_id,most_transferred_in_name,most_transferred_in_team_id,most_transferred_in_team_name,most_transferred_out_id,most_transferred_out_name,most_transferred_out_team_id,most_transferred_out_team_name,most_transferred_out_count,most_captained_id,most_captained_name,most_captained_team_id,most_captained_team_name,most_vice_captained_id,most_vice_captained_name,most_vice_captained_team_id,most_vice_captained_team_name,average_manager_score,highest_manager_score,player_of_gameweek_id,player_of_gameweek_name,player_of_gameweek_team_id,player_of_gameweek_team_name,player_of_gameweek_points
+1,2025-08-15T17:30:00Z,2025-08-15T12:52:00.000Z,1,Raya,1,Arsenal,,,,,,381,M.Salah,12,Liverpool,235,Palmer,7,Chelsea,54,127,531,Ballard,17,Sunderland,17
+2,2025-08-22T17:30:00Z,2025-08-22T12:51:00.000Z,427,Reijnders,13,Man City,370,Frimpong,12,Liverpool,926625,381,M.Salah,12,Liverpool,235,Palmer,7,Chelsea,51,140,8,J.Timber,1,Arsenal,24
+3,2025-08-30T10:00:00Z,2025-08-30T06:32:00.000Z,82,Semenyo,4,Bournemouth,235,Palmer,7,Chelsea,2534747,430,Haaland,13,Man City,381,M.Salah,12,Liverpool,48,118,260,Guéhi,8,Crystal Palace,15
+4,2025-09-13T10:00:00Z,2025-09-13T06:31:00.000Z,419,Grealish,9,Everton,235,Palmer,7,Chelsea,1237555,381,M.Salah,12,Liverpool,249,João Pedro,7,Chelsea,63,139,26,Zubimendi,1,Arsenal,16
+5,2025-09-20T10:00:00Z,2025-09-20T06:32:00.000Z,82,Semenyo,4,Bournemouth,402,Aït-Nouri,13,Man City,407980,381,M.Salah,12,Liverpool,249,João Pedro,7,Chelsea,42,112,660,Stach,11,Leeds,15
+6,2025-09-27T10:00:00Z,2025-09-27T06:31:00.000Z,430,Haaland,13,Man City,661,Ekitiké,12,Liverpool,863708,430,Haaland,13,Man City,249,João Pedro,7,Chelsea,46,124,683,Alderete,17,Sunderland,17
+7,2025-10-03T17:30:00Z,2025-10-03T12:49:00.000Z,430,Haaland,13,Man City,381,M.Salah,12,Liverpool,598194,430,Haaland,13,Man City,381,M.Salah,12,Liverpool,60,135,82,Semenyo,4,Bournemouth,18
+8,2025-10-18T10:00:00Z,2025-10-18T06:33:00.000Z,714,Woltemade,15,Newcastle,381,M.Salah,12,Liverpool,670882,430,Haaland,13,Man City,82,Semenyo,4,Bournemouth,56,138,225,James,7,Chelsea,18
+9,2025-10-24T17:30:00Z,2025-10-24T12:54:00.000Z,714,Woltemade,15,Newcastle,381,M.Salah,12,Liverpool,682812,430,Haaland,13,Man City,82,Semenyo,4,Bournemouth,46,124,575,Van de Ven,18,Spurs,23
+10,2025-11-01T13:30:00Z,2025-11-01T12:47:00.000Z,119,Mbeumo,14,Man Utd,249,João Pedro,7,Chelsea,1467111,430,Haaland,13,Man City,82,Semenyo,4,Bournemouth,65,135,169,Gomez,6,Brighton,16
+11,2025-11-08T11:00:00Z,2025-11-08T06:34:00.000Z,283,Mateta,8,Crystal Palace,582,Kudus,18,Spurs,693488,430,Haaland,13,Man City,82,Semenyo,4,Bournemouth,38,120,228,Gusto,7,Chelsea,15
+12,2025-11-22T11:00:00Z,2025-11-22T06:34:00.000Z,119,Mbeumo,14,Man Utd,5,Gabriel,1,Arsenal,1230158,430,Haaland,13,Man City,430,Haaland,13,Man City,39,134,266,Eze,1,Arsenal,20
+13,2025-11-29T13:30:00Z,2025-11-29T12:50:00.000Z,136,Thiago,5,Brentford,5,Gabriel,1,Arsenal,988674,430,Haaland,13,Man City,381,M.Salah,12,Liverpool,35,123,684,Thiaw,15,Newcastle,16
+14,2025-12-02T18:00:00Z,2025-12-02T12:58:00.000Z,136,Thiago,5,Brentford,241,Caicedo,7,Chelsea,519780,430,Haaland,13,Man City,430,Haaland,13,Man City,58,138,414,Foden,13,Man City,17
+15,2025-12-06T11:00:00Z,2025-12-06T06:36:00.000Z,414,Foden,13,Man City,82,Semenyo,4,Bournemouth,531103,430,Haaland,13,Man City,1,Raya,1,Arsenal,49,133,449,B.Fernandes,14,Man Utd,18
+16,2025-12-13T13:30:00Z,2025-12-13T12:51:00.000Z,414,Foden,13,Man City,256,Muñoz,8,Crystal Palace,1458809,430,Haaland,13,Man City,430,Haaland,13,Man City,60,149,516,Hudson-Odoi,16,Nott'm Forest,19
+17,2025-12-20T11:00:00Z,2025-12-20T06:38:00.000Z,329,Wilson,10,Fulham,119,Mbeumo,14,Man Utd,1304052,430,Haaland,13,Man City,414,Foden,13,Man City,66,148,107,Lewis-Potter,5,Brentford,21
+18,2025-12-26T18:30:00Z,2025-12-26T12:55:00.000Z,661,Ekitiké,12,Liverpool,449,B.Fernandes,14,Man Utd,1452378,430,Haaland,13,Man City,414,Foden,13,Man City,44,118,120,Schade,5,Brentford,20
+19,2025-12-30T18:00:00Z,2025-12-30T12:58:00.000Z,450,Cunha,14,Man Utd,8,J.Timber,1,Arsenal,530337,430,Haaland,13,Man City,430,Haaland,13,Man City,40,112,303,Garner,9,Everton,16
+20,2026-01-03T11:00:00Z,2026-01-03T06:40:00.000Z,5,Gabriel,1,Arsenal,21,Rice,1,Arsenal,535301,430,Haaland,13,Man City,661,Ekitiké,12,Liverpool,42,117,136,Thiago,5,Brentford,17
+21,2026-01-06T18:30:00Z,2026-01-06T12:58:00.000Z,5,Gabriel,1,Arsenal,661,Ekitiké,12,Liverpool,712739,430,Haaland,13,Man City,414,Foden,13,Man City,48,118,487,Barnes,15,Newcastle,15
+22,2026-01-17T11:00:00Z,2026-01-17T06:39:00.000Z,5,Gabriel,1,Arsenal,414,Foden,13,Man City,742251,430,Haaland,13,Man City,430,Haaland,13,Man City,40,111,441,Dorgu,14,Man Utd,15
+23,2026-01-24T11:00:00Z,2026-01-24T06:40:00.000Z,449,B.Fernandes,14,Man Utd,414,Foden,13,Man City,632499,430,Haaland,13,Man City,136,Thiago,5,Brentford,44,115,387,Szoboszlai,12,Liverpool,13
+24,2026-01-31T13:30:00Z,2026-01-31T13:03:00.000Z,449,B.Fernandes,14,Man Utd,414,Foden,13,Man City,1111925,430,Haaland,13,Man City,430,Haaland,13,Man City,55,126,18,Madueke,1,Arsenal,14
+25,2026-02-06T18:30:00Z,2026-02-06T13:15:00.000Z,249,João Pedro,7,Chelsea,16,Saka,1,Arsenal,476719,430,Haaland,13,Man City,430,Haaland,13,Man City,58,147,235,Palmer,7,Chelsea,20
+26,2026-02-10T18:00:00Z,2026-02-10T13:41:00.000Z,666,Gyökeres,1,Arsenal,329,Wilson,10,Fulham,440282,430,Haaland,13,Man City,430,Haaland,13,Man City,58,138,373,Virgil,12,Liverpool,17
+27,2026-02-21T13:30:00Z,2026-02-21T13:03:00.000Z,249,João Pedro,7,Chelsea,488,Bruno G.,15,Newcastle,603643,430,Haaland,13,Man City,430,Haaland,13,Man City,45,117,411,O'Reilly,13,Man City,17
+28,2026-02-27T18:30:00Z,2026-02-27T13:14:00.000Z,373,Virgil,12,Liverpool,237,Enzo,7,Chelsea,403800,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,53,125,121,Damsgaard,5,Brentford,18
+29,2026-03-03T18:00:00Z,2026-03-03T13:14:00.000Z,661,Ekitiké,12,Liverpool,430,Haaland,13,Man City,483882,430,Haaland,13,Man City,82,Semenyo,13,Man City,54,143,249,João Pedro,7,Chelsea,19
+30,2026-03-14T13:30:00Z,2026-03-14T13:08:00.000Z,249,João Pedro,7,Chelsea,47,Rogers,2,Aston Villa,448987,430,Haaland,13,Man City,82,Semenyo,13,Man City,43,110,55,Barkley,2,Aston Villa,12
+31,2026-03-20T18:30:00Z,2026-03-20T13:16:00.000Z,684,Thiaw,15,Newcastle,430,Haaland,13,Man City,449283,430,Haaland,13,Man City,249,João Pedro,7,Chelsea,38,109,311,Beto,9,Everton,16
+32,2026-04-10T17:30:00Z,2026-04-10T13:26:00.000Z,151,Van Hecke,6,Brighton,661,Ekitiké,12,Liverpool,445721,430,Haaland,13,Man City,430,Haaland,13,Man City,46,132,606,Mavropanos,19,West Ham,21
+33,2026-04-18T10:00:00Z,2026-04-18T07:19:00.000Z,691,Calvert-Lewin,11,Leeds,661,Ekitiké,12,Liverpool,998398,430,Haaland,13,Man City,82,Semenyo,13,Man City,66,177,515,Gibbs-White,16,Nott'm Forest,20
+34,2026-04-24T17:30:00Z,2026-04-24T13:55:00.000Z,64,Watkins,2,Aston Villa,249,João Pedro,7,Chelsea,803314,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,36,114,526,Igor Jesus,16,Nott'm Forest,14
+35,2026-05-01T17:30:00Z,2026-05-01T13:43:00.000Z,417,Cherki,13,Man City,249,João Pedro,7,Chelsea,285185,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,50,129,527,Awoniyi,16,Nott'm Forest,16
+36,2026-05-09T10:00:00Z,2026-05-09T08:04:00.000Z,417,Cherki,13,Man City,515,Gibbs-White,16,Nott'm Forest,411849,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,65,145,145,De Cuyper,6,Brighton,15
+37,2026-05-15T17:30:00Z,2026-05-15T14:23:00.000Z,666,Gyökeres,1,Arsenal,47,Rogers,2,Aston Villa,263136,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,53,131,64,Watkins,2,Aston Villa,15
+38,2026-05-24T13:30:00Z,2026-05-24T08:39:00.000Z,624,Bowen,19,West Ham,249,João Pedro,7,Chelsea,325793,430,Haaland,13,Man City,449,B.Fernandes,14,Man Utd,41,117,441,Dorgu,14,Man Utd,18

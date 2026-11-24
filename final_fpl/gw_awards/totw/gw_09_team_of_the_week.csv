@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+9,32,Martinez,2,Aston Villa,Goalkeeper,8,90,0,0,1,3,1,32
+9,36,Cash,2,Aston Villa,Defender,15,90,1,0,1,0,3,44
+9,84,Tavernier,4,Bournemouth,Midfielder,11,90,1,0,1,0,3,35
+9,119,Mbeumo,14,Man Utd,Midfielder,15,90,2,0,0,0,3,65
+9,215,Flemming,3,Burnley,Forward,13,90,2,0,0,0,3,68
+9,266,Eze,1,Arsenal,Midfielder,11,87,1,0,1,0,3,32
+9,348,Rodon,11,Leeds,Defender,13,90,1,0,0,0,3,35
+9,350,Aaronson,11,Leeds,Midfielder,11,86,1,0,1,0,3,35
+9,457,Casemiro,14,Man Utd,Midfielder,15,69,1,1,1,0,2,43
+9,568,Pedro Porro,18,Spurs,Defender,11,90,0,1,1,0,2,41
+9,575,Van de Ven,18,Spurs,Defender,23,90,2,0,1,0,3,59

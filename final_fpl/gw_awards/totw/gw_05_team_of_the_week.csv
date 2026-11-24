@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+5,36,Cash,2,Aston Villa,Defender,10,90,1,0,0,0,2,29
+5,200,Anthony,3,Burnley,Midfielder,10,90,1,0,0,0,3,37
+5,324,Iwobi,10,Fulham,Midfielder,13,79,1,1,0,0,3,47
+5,390,Gravenberch,12,Liverpool,Midfielder,15,90,1,1,0,0,3,48
+5,442,Maguire,14,Man Utd,Defender,11,69,0,1,1,0,2,34
+5,449,B.Fernandes,14,Man Utd,Midfielder,10,86,1,0,0,0,3,36
+5,469,Pope,15,Newcastle,Goalkeeper,6,90,0,0,1,2,0,26
+5,508,N.Williams,16,Nott'm Forest,Defender,10,90,1,0,0,0,2,28
+5,560,Isidor,17,Sunderland,Forward,9,79,1,0,0,0,3,35
+5,660,Stach,11,Leeds,Midfielder,15,90,1,1,0,0,3,55
+5,691,Calvert-Lewin,11,Leeds,Forward,11,90,1,1,0,0,2,38

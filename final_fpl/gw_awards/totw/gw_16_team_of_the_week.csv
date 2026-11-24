@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+16,47,Rogers,2,Aston Villa,Midfielder,15,90,2,0,0,0,3,54
+16,228,Gusto,7,Chelsea,Defender,18,90,1,1,1,0,3,56
+16,329,Wilson,10,Fulham,Midfielder,16,88,1,2,0,0,3,60
+16,407,Matheus N.,13,Man City,Defender,11,90,0,1,1,0,2,45
+16,430,Haaland,13,Man City,Forward,13,90,2,0,1,0,3,53
+16,449,B.Fernandes,14,Man Utd,Midfielder,13,90,1,1,0,0,3,48
+16,516,Hudson-Odoi,16,Nott'm Forest,Midfielder,19,90,2,1,1,0,3,61
+16,521,Sangaré,16,Nott'm Forest,Midfielder,18,90,1,2,1,0,2,54
+16,541,Reinildo,17,Sunderland,Defender,10,90,0,0,1,0,3,29
+16,661,Ekitiké,12,Liverpool,Forward,13,77,2,0,1,0,3,65
+16,670,Roefs,17,Sunderland,Goalkeeper,9,90,0,0,1,2,3,29

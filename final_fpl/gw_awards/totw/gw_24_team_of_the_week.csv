@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+24,18,Madueke,1,Arsenal,Midfielder,14,60,1,1,1,0,3,43
+24,90,Scott,4,Bournemouth,Midfielder,13,90,1,0,1,0,3,37
+24,101,Kelleher,5,Brentford,Goalkeeper,10,90,0,0,1,5,3,37
+24,374,Konaté,12,Liverpool,Defender,11,90,1,0,0,0,1,29
+24,382,Wirtz,12,Liverpool,Midfielder,12,86,1,1,0,0,2,46
+24,457,Casemiro,14,Man Utd,Midfielder,13,74,1,1,1,0,3,40
+24,531,Ballard,17,Sunderland,Defender,9,90,0,0,1,0,1,32
+24,541,Reinildo,17,Sunderland,Defender,11,90,0,1,1,0,2,37
+24,544,Diarra,17,Sunderland,Midfielder,14,79,1,1,1,0,3,42
+24,596,Solanke,18,Spurs,Forward,12,89,2,0,0,0,3,53
+24,661,Ekitiké,12,Liverpool,Forward,13,83,2,0,0,0,3,56

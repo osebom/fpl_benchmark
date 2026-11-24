@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+20,21,Rice,1,Arsenal,Midfielder,17,90,2,0,0,0,3,58
+20,54,McGinn,2,Aston Villa,Midfielder,15,82,2,0,0,0,3,51
+20,106,Collins,5,Brentford,Defender,10,90,1,1,0,0,0,38
+20,125,Janelt,5,Brentford,Midfielder,11,90,0,2,0,0,1,43
+20,136,Thiago,5,Brentford,Forward,17,90,3,0,0,0,3,94
+20,139,Verbruggen,6,Brighton,Goalkeeper,7,90,0,0,1,2,1,33
+20,166,Ayari,6,Brighton,Midfielder,12,90,1,0,1,0,2,35
+20,237,Enzo,7,Chelsea,Midfielder,11,90,1,0,0,0,3,33
+20,633,H.Bueno,20,Wolves,Defender,11,90,0,1,1,0,2,40
+20,684,Thiaw,15,Newcastle,Defender,17,90,1,0,1,0,3,50
+20,749,Mané,20,Wolves,Forward,12,85,1,1,1,0,3,46

@@ -1,0 +1,12 @@
+gameweek,player_id,player_name,team_id,team_name,position,total_points,minutes,goals_scored,assists,clean_sheets,saves,bonus,bps
+26,16,Saka,1,Arsenal,Midfielder,13,92,1,0,0,0,3,39
+26,18,Madueke,1,Arsenal,Midfielder,13,133,1,0,1,0,3,37
+26,21,Rice,1,Arsenal,Midfielder,14,180,0,1,0,0,3,54
+26,40,Mings,2,Aston Villa,Defender,12,90,0,1,1,0,3,33
+26,82,Semenyo,13,Man City,Midfielder,14,90,1,1,1,0,3,36
+26,235,Palmer,7,Chelsea,Midfielder,12,90,1,1,0,0,3,43
+26,373,Virgil,12,Liverpool,Defender,17,90,1,0,1,0,3,45
+26,411,O'Reilly,13,Man City,Defender,13,90,1,0,1,0,1,33
+26,628,José Sá,20,Wolves,Goalkeeper,13,180,0,0,1,12,3,57
+26,654,Strand Larsen,8,Crystal Palace,Forward,13,90,2,0,0,0,3,57
+26,725,Hincapie,1,Arsenal,Defender,15,170,1,1,0,0,3,56
